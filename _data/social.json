@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Instagram",
+    "link": "https://www.instagram.com/le_ki_de_jade",
+    "image": "images/social/instagram.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/le_ki_de_jade",
+    "image": "images/social/facebook.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/le-ki-de-jade",
+    "image": "images/social/linkedin.svg"
   }
 ]
