@@ -5,7 +5,7 @@
 }
 .intro-image-absolute {
   max-width: none;
-
+  transform: rotate(215deg);
   padding: 0;
   margin-bottom: 30px;
   @include media-breakpoint-up(sm) {
@@ -22,9 +22,9 @@
     width: 800px;
   }
   @include media-breakpoint-up(xl) {
-    bottom: -100px;
-    left: -70px;
-    width: 850px;
+    bottom: -200px;
+    left: 0px;
+    width: 400px;
   }
 }
 .intro-image-hide-mobile {
