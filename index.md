@@ -11,6 +11,9 @@ show_call_box: false
 # Le Ki de Jade - Shiatsu.
 
 Le Papillon se perdait dans l’adversité
+
 La lumière lui tendit son cœur
+
 Il apprit à dialoguer avec sa tortue intérieure
+
 Ses ailes lui servent maintenant à explorer le monde avec lenteur
