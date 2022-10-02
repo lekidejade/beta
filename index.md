@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Le Ki de Jade - Shiatsu.
+# Zen Shiatsu
 
 Le Papillon se perdait dans l’adversité
 
