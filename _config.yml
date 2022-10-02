@@ -1,37 +1,51 @@
-title: Hello, world! I'm David Freeman
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "/beta" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: '/beta'
+permalink: pretty
+title: 'Jekyll Serif'
 
-# Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+home: 
+  limit_services: 6
 
-# Tracker
-analytics: # Google Analytics
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
 
-# Build Settings
-markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+  - jekyll-environment-variables
 
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
