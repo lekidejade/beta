@@ -1,6 +1,6 @@
 ---
-title: About
+title: Particulier
 layout: page
-description: About
-bodyClass: page-about
+description: Particulier
+bodyClass: page-particulier
 ---

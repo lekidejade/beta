@@ -1,6 +1,6 @@
 ---
 title: Qui suis-je ?
-layout: qui-suis-je
+layout: page
 description: Qui suis-je ?
 ---
 

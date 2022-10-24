@@ -1,6 +1,6 @@
 ---
-title: About
+title: Entreprise
 layout: page
-description: About
-bodyClass: page-about
+description: Entreprise
+bodyClass: page-entreprise
 ---
