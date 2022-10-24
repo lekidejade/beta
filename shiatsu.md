@@ -1,12 +1,9 @@
 ---
-title: About
+title: Le Shiatsu
 layout: page
-description: About
-bodyClass: page-about
+description: Shiatsu
+bodyClass: page-shiatsu
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-![Jade](/images/jade.jpg)
+« Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre. »
+Shizuto Masunaga

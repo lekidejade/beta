@@ -1,9 +1,9 @@
 main:
-  - name: "Qui suis-je ?"
-    url: "/qui-suis-je/"
-    weight: 1
   - name: "Le Shiatsu"
     url: "/shiatsu/"
+    weight: 1
+  - name: "Qui suis-je ?"
+    url: "/qui-suis-je/"
     weight: 2
   - name: "Particulier"
     url: "/particulier/"
