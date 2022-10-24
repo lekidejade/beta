@@ -1,6 +1,6 @@
 ---
 title: Le Shiatsu
-layout: page
+layout: shiatsu
 description: Shiatsu
 bodyClass: page-shiatsu
 ---
