@@ -9,21 +9,21 @@ bodyClass: page-shiatsu
 
 Shizuto Masunaga
 
-#**Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...**
+# **Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...**
 
 **Shi** : Pression
 **Atsu** : doigts
 
 Visuel couverture de l’ouvrage Zen Shiatsu de Shizuto Masunaga
 
-#**Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
+# **Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
 
 C’est une technique traditionnelle Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Shizuto Masunaga (1925-1981) ayant une formation de psychologue, a mis au point ses propres techniques de shiatsu en ajoutant une dimension énergétique et psycho-émotionnelle à ses recherches.  Étudiant au Japan Shiatsu College en 1949 sous la direction de Tokujiro Namikoshi, puis enseignant dans cette même école, il s'en est éloigné pour fonder son propre style.
 
 Les méridiens 
 On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain, interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
 
-#**Votre séance**
+# **Votre séance**
 
 Visuel Anpuquarelle ©Jade Hémon
 
@@ -44,7 +44,7 @@ Le soin se fait habillé dans une tenue décontractée pour être à l’aise, i
 
 **A la fin de la séance**, un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements et postures à réaliser chez vous pour tonifier ou disperser l’énergie selon vos déséquilibres. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
-#**Les effets et bienfaits du Shiatsu**
+# **Les effets et bienfaits du Shiatsu**
 
 En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourra entraîner une réaction émotionnelle forte dans certains cas, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, une stimulation du système immunitaire, un changement dans le comportement…
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le patient lui-même à se découvrir un peu plus et donc à vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
