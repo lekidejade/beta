@@ -30,19 +30,19 @@ Visuel Anpuquarelle ©Jade Hémon
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
 Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
-**La séance se déroule de la façon suivante**
+**La séance se déroule de la façon suivante** 
 
 **Accueil avec une boisson chaude** pour vous plonger dans une bulle, un moment suspendu
 
-**Un bilan par l’observation:** votre posture, votre structure anatomique et caractéristiques physique
+**Un bilan par l’observation** de votre posture, votre structure anatomique et caractéristiques physiques
 
 **Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter ( sommeil,alimentation, troubles physiques et/ ou psychiques)
 
-**Un bilan par l’écoute**: le son de votre voix, votre respiration, votre débit de parole pendant l’échange etc...
+**Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange etc...
 
-**Allongé sur le dos** , j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
+**Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
 
-**A la fin de la séance**, un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements et postures à réaliser chez vous pour tonifier ou disperser l’énergie selon vos déséquilibres. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
+**A la fin de la séance** un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements et postures à réaliser chez vous pour tonifier ou disperser l’énergie selon vos déséquilibres. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
 # **Les effets et bienfaits du Shiatsu**
 
@@ -65,7 +65,7 @@ Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
 
 - Troubles cardiaques, hypertension, diabète
 
-- Troubles  gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire, etc.
+- Troubles gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire, etc.
 
 - Suivi et accompagnement pendant/ après la grossesse
 
