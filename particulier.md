@@ -7,17 +7,17 @@ bodyClass: page-particulier
 
 # Horaires cabinets et réservations en ligne ou sur le formulaire contact
 
-Lundi wwww.resalib.fr 12h-20H - Métro Villier-Cabinet indépendant 
+Lundi [resalib](www.resalib.fr) 12h-20H - Métro Villier-Cabinet indépendant 
 
-Mardi wwww.resalib.fr  12h-20h | 1er studio de Yoga, méditation et thérapie complémentaire en France 
+Mardi [resalib](www.resalib.fr) 12h-20h | 1er studio de Yoga, méditation et thérapie complémentaire en France 
 
-Mercredi wwww.resalib.fr 10h-18H Métro Villier - Cabinet indépendant 
+Mercredi [resalib](www.resalib.fr) 10h-18H Métro Villier - Cabinet indépendant 
 
-Jeudi wwww.resalib.fr 10h-18H Métro Villier - Cabinet indépendant 
+Jeudi [resalib](www.resalib.fr) 10h-18H Métro Villier - Cabinet indépendant 
 
-vendredi wwww.resalib.fr 10h-18H Métro Villier - Cabinet indépendant 
+vendredi [resalib](www.resalib.fr) 10h-18H Métro Villier - Cabinet indépendant 
 
-Samedi wwww.resalib.fr 9h-16h - Metro Michel Ange Molitor- Cabinet partagé Kinésithérapeuthe- Osthéopathe - Sophrologue- Podologue 
+Samedi [resalib](www.resalib.fr) 9h-16h - Metro Michel Ange Molitor- Cabinet partagé Kinésithérapeuthe- Osthéopathe - Sophrologue- Podologue 
 
 # Tarifs
 
