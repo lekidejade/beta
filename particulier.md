@@ -17,7 +17,7 @@ Jeudi [resalib](www.resalib.fr) \| 10h-18H Métro Villier - Cabinet indépendant
 
 vendredi [resalib](www.resalib.fr) \| 10h-18H Métro Villier - Cabinet indépendant 
 
-Samedi [resalib](www.resalib.fr) \| 9h-16h - Metro Michel Ange Molitor- Cabinet partagé Kinésithérapeuthe- Osthéopathe - Sophrologue- Podologue 
+Samedi [resalib](www.resalib.fr) \| 9h-16h - Metro Michel Ange Molitor- Cabinet partagé Kinésithérapeuthe- Osthéopathe - Podologue 
 
 # Durées et Tarifs
 
