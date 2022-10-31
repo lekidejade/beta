@@ -14,7 +14,7 @@ Shizuto Masunaga
 **Shi** : Pression
 **Atsu** : doigts
 
-Visuel couverture de l’ouvrage Zen Shiatsu de Shizuto Masunaga
+![Zen-shiatsu](/images/illustrations/zenshiatsu.jpeg)
 
 # **Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
 
