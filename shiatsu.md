@@ -25,7 +25,8 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 
 # **Votre séance**
 
-Visuel Anpuquarelle ©Jade Hémon
+![Anpuquarelle](/images/illustrations/anpuquarelle.jpeg)
+*©Jade Hémon*
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
 Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
@@ -71,7 +72,7 @@ Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
 
 - Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie…
 
--Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
+- Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
 
 ⇒ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
 
