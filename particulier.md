@@ -27,8 +27,8 @@ Samedi [resalib](www.resalib.fr) \| 9h-16h - Metro Michel Ange Molitor- Cabinet 
 
  **1h30** : 90€ - recommandée pour un suivi thérapeuthique et surtout dans le cadre de la première séance
 
- **2h** : 110€ -  Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance)
+ **2h** : 110€ - Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance)
 
  **Forfait 3 \| 6 \| 8 séances pour suivi pathologie lourde** : à la demande 
 
- **Forfait "changement de saison" 4 séances/ an** : 300€
+ **Forfait "changement de saison" 4 séances/an** : 300€
