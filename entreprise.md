@@ -25,8 +25,8 @@ N'attendez plus, je suis déjà parmis vous!
 
 # Tarifs
 
--Devis sur mesure selon le nombre de participants
--Forfait base Demi-journée: 450€ pour 6 reveveurs - 45 min par personne.
+- Devis sur mesure selon le nombre de participants
+- Forfait base Demi-journée: 450€ pour 6 reveveurs - 45 min par personne.
 
 Ils me font déjà confiance
 ==> Logo , ADY/ OPENWEB / WOJO Neuilly et Coeur-Défense / Résidence Senior Chatillon
