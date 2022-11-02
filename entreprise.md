@@ -16,9 +16,9 @@ En effet, le shiatsu n’est pas un massage, c’est une invitation à l’intro
 - Ce format invite les collaborateurs à prendre un vrai temps de pause, et le temps qu’ils n’auraient pas pour se déplacer en cabinet, ils l’auront directement dans une salle isolée au calme.
 - Donner plus de légitimité à la pratique dans un monde de l’entreprise qui est souvent corrompu par la course à la productivité. Apporter un plus, répondre à un besoin souvent non exprimé. Une oreille, une main attentive, dans l’écoute et sans jugement comme ça peut l’être lors des dures journées de travail.Et si les consultations en entreprise ont du sens pour vous, il sera plus naturel de vous déplacer dans mon cabinet ensuite.
 - Sensibiliser sur les bienfaits du Shiatsu comme une technique qui permet d’aller chercher des réponses en soi, mais pas d’influence ou d’ingérence sur l’individu. Ce n’est pas une technique magique, ni ésotérique, elle est fondée sur des principes fondamentaux ancestraux et un accompagnement pour retrouver son chemin et son alignement.
-- Possibilité aux CSE et dirigeants d'entreprise d'investir pour une meilleure santé de leur salariés au travail
+- Possibilité aux CSE et dirigeants d'entreprise d'investir pour une meilleure santé de leurs salariés au travail
 
-# Pourquoi le personnel soignant (hopitaux, résidence senior, Ephad...)?
+# Pourquoi le personnel soignant (hopitaux, résidences séniors, Ephad...) ?
 
 Il ne fait nul doute que tout le personnel du corps médical prend une pression quotidienne inconsidérée et parfois inimaginable. La période Covid a permis de démocratiser le sujet, mais cela a toujours été le cas!
 N'attendez plus, je suis déjà parmis vous!

@@ -14,7 +14,7 @@ Shizuto Masunaga
 **Shi** : Pression
 **Atsu** : doigts
 
-![Zen-shiatsu](/images/illustrations/zenshiatsu.jpeg)
+![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="300px"}
 
 # **Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
 
@@ -25,7 +25,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 
 # **Votre séance**
 
-![Anpuquarelle](/images/illustrations/anpuquarelle.jpeg)
+![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="300px"}
 *©Jade Hémon*
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
@@ -37,9 +37,9 @@ Le soin se fait habillé dans une tenue décontractée pour être à l’aise, i
 
 **Un bilan par l’observation** de votre posture, votre structure anatomique et caractéristiques physiques
 
-**Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter ( sommeil,alimentation, troubles physiques et/ ou psychiques)
+**Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
 
-**Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange etc...
+**Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
 **Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
 
@@ -48,19 +48,21 @@ Le soin se fait habillé dans une tenue décontractée pour être à l’aise, i
 # **Les effets et bienfaits du Shiatsu**
 
 En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourra entraîner une réaction émotionnelle forte dans certains cas, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, une stimulation du système immunitaire, un changement dans le comportement…
+
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le patient lui-même à se découvrir un peu plus et donc à vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
 Le Shiatsu pourra donc non seulement être utile en termes de soin mais pourra également être le début d’une véritable thérapie corporelle.
 
- Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut devenir votre meilleur allié !
+Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut devenir votre meilleur allié !
+
 Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
 
 **Le shiatsu est efficace pour**
 
-- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines…
+- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines, ...
 
-- Tensions musculaires ou tendineuses/ osseuses: lombalgie, sciatique, cruralgie,cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose…
+- Tensions musculaires ou tendineuses/osseuses: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose…
 
-- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, maladie chronique du tube digestif ( RCH, côlon irritable), reflux gastriques
+- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, maladie chronique du tube digestif (RCH, côlon irritable), reflux gastriques
 
 - Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars
 
