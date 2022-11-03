@@ -5,27 +5,26 @@ description: Particulier
 bodyClass: page-particulier
 ---
 
-# Horaires et réservations
-
-| Jour         | Heures      | Lieu                                                                                    | Réservation               |
-| ------------ | ----------  | --------------------------------------------------------------------------------------- | ------------------------- |
-| **Lundi**    | 12h00-20h00 | Métro Villier - Cabinet indépendant                                                     | [resalib](www.resalib.fr) |
-| **Mardi**    | 15h00-20h00 | 1er studio de Yoga, méditation et thérapie complémentaire en France                     | [resalib](www.resalib.fr) |
-| **Mercredi** | 10h00-18h00 | Métro Villier - Cabinet indépendant                                                     | [resalib](www.resalib.fr) |
-| **Jeudi**    | 10h00-18h00 | Métro Villier - Cabinet indépendant                                                     | [resalib](www.resalib.fr) |
-| **Vendredi** | 10h00-18h00 | Métro Villier - Cabinet indépendant                                                     | [resalib](www.resalib.fr) |
-| **Samedi**   | 9h00-16h00  | Metro Michel Ange Molitor - Cabinet partagé Kinésithérapeuthe - Osthéopathe - Podologue | [resalib](www.resalib.fr) |
-
 # Durées et Tarifs
 
-**45 minutes** : 50€ - recommandée pour une séance découverte bien-être
+| Durée                        | Prix         | Description                                                                                                      |
+| ---------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **45 minutes**               | 50€          | Recommandée pour une séance découverte bien-être                                                                 |
+| **1 heure**                  | 70€          | Recommandée pour un suivi thérapeuthique                                                                         |
+| **90 minutes**               | 90€          | Recommandée pour un suivi thérapeuthique et surtout dans le cadre de la première séance                          |
+| **2 heures**                 | 110€         | Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance) |
+| **4 x 90 minutes**           | 300€         | Forfait "changement de saison"                                                                                   |
+| **3 \\ 6 \\ 8 x 90 minutes** | A la demande | Forfait 3, 6, 8 séances pour suivi pathologie lourd                                                              |
 
-**1h** : 70 - recommandée pour un suivi thérapeuthique
+# Horaires et réservations
 
-**1h30** : 90€ - recommandée pour un suivi thérapeuthique et surtout dans le cadre de la première séance
+| Jour         | Heures      | Lieu                                                                                   |
+| ------------ | ----------- | -------------------------------------------------------------------------------------- |
+| **Lundi**    | 12h00-20h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A)            |
+| **Mardi**    | 15h00-20h00 | [Studio de médiation Bloom - Paris 2ème](https://goo.gl/maps/rVRGeksaMLenS49k8)        |
+| **Mercredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A)            |
+| **Jeudi**    | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A)            |
+| **Vendredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A)            |
+| **Samedi**   | 09h00-16h00 | [Cabinet paramédical Michel-Ange - Paris 16ème](https://goo.gl/maps/iaTXLQDH3uFvms219) |
 
-**2h** : 110€ - Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance)
-
-**Forfait 3 \| 6 \| 8 séances pour suivi pathologie lourde** : à la demande
-
-**Forfait "changement de saison" 4 séances/an** : 300€
+## [**Pour réserver c'est ici**](www.resalib.fr)
