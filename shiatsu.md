@@ -18,7 +18,7 @@ Shizuto Masunaga
 
 # **Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
 
-C’est une technique traditionnelle Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Shizuto Masunaga (1925-1981) ayant une formation de psychologue, a mis au point ses propres techniques de shiatsu en ajoutant une dimension énergétique et psycho-émotionnelle à ses recherches.  Étudiant au Japan Shiatsu College en 1949 sous la direction de Tokujiro Namikoshi, puis enseignant dans cette même école, il s'en est éloigné pour fonder son propre style.
+C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Shizuto Masunaga (1925-1981) ayant une formation de psychologue, a mis au point ses propres techniques de shiatsu en ajoutant une dimension énergétique et psycho-émotionnelle à ses recherches.  Étudiant au Japan Shiatsu College en 1949 sous la direction de Tokujiro Namikoshi, puis enseignant dans cette même école, il s'en est éloigné pour fonder son propre style.
 
 Les méridiens 
 On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain, interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
@@ -41,20 +41,10 @@ Le soin se fait habillé dans une tenue décontractée pour être à l’aise, i
 
 **Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
-**Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
+**Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants. 
+Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
 
 **A la fin de la séance** un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements et postures à réaliser chez vous pour tonifier ou disperser l’énergie selon vos déséquilibres. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
-
-# **Les effets et bienfaits du Shiatsu**
-
-En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourra entraîner une réaction émotionnelle forte dans certains cas, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, une stimulation du système immunitaire, un changement dans le comportement…
-
-Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le patient lui-même à se découvrir un peu plus et donc à vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
-Le Shiatsu pourra donc non seulement être utile en termes de soin mais pourra également être le début d’une véritable thérapie corporelle.
-
-Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut devenir votre meilleur allié !
-
-Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
 
 **Le shiatsu est efficace pour**
 
@@ -88,4 +78,13 @@ Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour J et après.
 
+# **Les effets et bienfaits du Shiatsu**
+Le shiatsu intervient sur une double dimension: Le soulagement des douleurs chroniques, des " symptômes" apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... Shizuto Masunaga explique ceci: " racine ...."
+En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle forte dans certains cas, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement… Mais plus encore, c'est un art, un art corporel où je vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, le toucher au delà du toucher.
+Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène jusqu'à moi pour livrer vos émotions, vos douleurs, vos joies, vos peines... 
+Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le patient lui-même à se découvrir un peu plus et donc à vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
+Le Shiatsu pourra donc non seulement être utile en termes de soin mais pourra également être le début d’une véritable thérapie corporelle.
 
+Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut devenir votre meilleur allié !
+
+Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle
