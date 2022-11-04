@@ -43,18 +43,18 @@ Le soin se fait habillé dans une tenue décontractée pour être à l’aise, i
 
 **La séance se déroule de la façon suivante:**
 
-** -Accueil avec une boisson chaude** pour vous plonger dans une bulle, un moment suspendu
+- Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu
 
-**- Un bilan par l’observation** de votre posture, votre structure anatomique et caractéristiques physiques
+- Un bilan par l’observation: de votre posture, votre structure anatomique et caractéristiques physiques
 
-**- Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
+- Un échange de 15 min: sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
 
-**- Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
+- Un bilan par l’écoute: le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
-**-Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
+- Allongé sur le dos:  j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
 Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
 
-**-A la fin de la séance** un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
+- A la fin de la séance: un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
 **Le shiatsu est efficace pour**
 
@@ -75,8 +75,7 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 - Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie…
 
 - Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
-
-⇒ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
+Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
 
 - Renforcer votre système immunitaire et votre énergie vitale (Ki) 
 
