@@ -19,10 +19,10 @@ Il y a différents types de Shiatsus, celui que je pratique est issu de la lign�
 
 _______________________________________________________________________________________
 
-* 510h cycle de 3 ans: Shiatsu théorique et pratique validé par Toshiatsu et le SPS.
-* +700h pratique personnelle, étude de cas et rapport profesionnel
+* 510h cycle de 3 ans: Shiatsu théorique et pratique validé par Toshiatsu et le SPS
+* +700h pratique personnelle, études de cas, rapport profesionnel et soutenance finale
 * +80h certification Anatomie palpapatoire, physiologie
-* Stages et formations divers: Stages Toshiatsu, Shiatsu sur table avec Guy Van Huyen, Shiatsu et prise en charge des blessures invisibles (SPS), Aikido et pratique d'expression corporelle en symbiose avec le Shiatsu.
+* Stages et formations divers: Stages Toshiatsu, Shiatsu sur table avec Guy Van Huyen, Shiatsu et prise en charge des blessures invisibles (SPS), Aikido et pratique d'expression corporelle en symbiose avec le Shiatsu
 
  « Il y a un lien direct entre le corps et l’esprit. Etablir une connexion entre le patient et le thérapeute est déjà le début du processus de guérison. »
 Yuichi Kawada
