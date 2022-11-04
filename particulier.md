@@ -28,3 +28,7 @@ bodyClass: page-particulier
 | **Samedi**   | 09h00-16h00 | [Cabinet paramédical Michel-Ange - Paris 16ème](https://goo.gl/maps/iaTXLQDH3uFvms219){:target="_blank"} |
 
 ## [**Pour réserver c'est ici**](www.resalib.fr)
+
+# Mutuelles
+Retrouvez  ici la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS
+taguer ici: https://www.syndicat-shiatsu.fr/les-mutuelles/
