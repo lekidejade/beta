@@ -41,15 +41,15 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
 Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
-**La séance se déroule de la façon suivante** 
+**La séance se déroule de la façon suivante:**
 
-**-Accueil avec une boisson chaude** pour vous plonger dans une bulle, un moment suspendu
+** -Accueil avec une boisson chaude** pour vous plonger dans une bulle, un moment suspendu
 
-**-Un bilan par l’observation** de votre posture, votre structure anatomique et caractéristiques physiques
+**- Un bilan par l’observation** de votre posture, votre structure anatomique et caractéristiques physiques
 
-**-Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
+**- Un échange de 15 min** sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
 
-**-Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
+**- Un bilan par l’écoute** le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
 **-Allongé sur le dos** j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
 Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
@@ -92,7 +92,7 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 - Le shiatsu intervient sur une double dimension: Le soulagement des douleurs chroniques, des " symptômes" apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
 
--En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement…
+- En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement…
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
 Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines... 
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
