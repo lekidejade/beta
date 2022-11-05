@@ -4,6 +4,9 @@ layout: page
 description: Qui suis-je ?
 ---
 
+![Jade](/images/jade.jpg){:width="60%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
 # *Le Ki de Jade*
 
 Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le Shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher Japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
@@ -27,5 +30,3 @@ ________________________________________________________________________________
 > Il y a un lien direct entre le corps et l’esprit. Etablir une connexion entre le patient et le thérapeute est déjà le début du processus de guérison.
 >
 > -- Yuichi Kawada
-
-![Jade](/images/jade.jpg)
