@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-**Pour prendre rendez-vous:**
+# *Pour prendre rendez-vous:*
 
 - Me contacter par mail ou SMS/ whatsapp
 
@@ -15,3 +15,7 @@ description: Contact
 - Pensez à prendre une tenue souple, de préférence avec le corps recouvert de tissus plutôt fin et qui laisse la peau respirer, pour des pressions plus agréables, ainsi qu’un pull/ chaussettes pour ne pas vous refroidir pendant la séance. Si vous le souhaitez aussi, une serviette ou un tissu pour le visage.
 
 
+# *Mentions légales*
+
+Le Shiatsu ne se substituent pas aux traitements de la médecine allopathique ou psychiatrique et ne sont nullement associées à la kinésithérapie selon l’article L.4321-21 du Code de la Santé Publique et au décret n° 96-879 du 8 octobre 1996, modifié par décret n° 2000-577 du 27 Juin 2000.
+En cas de malaise important ou de maladie, consultez d'abord un médecin ou un professionnel de la santé en mesure d'évaluer adéquatement votre état de santé.
