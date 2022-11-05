@@ -27,8 +27,8 @@ bodyClass: page-particulier
 | **Vendredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
 | **Samedi**   | 09h00-16h00 | [Cabinet paramédical Michel-Ange - Paris 16ème](https://goo.gl/maps/iaTXLQDH3uFvms219){:target="_blank"} |
 
-## [**Pour réserver c'est ici**](www.resalib.fr)
+## [**Pour réserver c'est ici**](/contact)
 
 # Mutuelles
 Retrouvez  ici la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS
-taguer ici: https://www.syndicat-shiatsu.fr/les-mutuelles/
+taguer [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"}.   
