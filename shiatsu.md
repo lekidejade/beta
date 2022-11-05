@@ -16,19 +16,14 @@ Shizuto Masunaga
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="300px"}
 
-# **Le Zen shiatsu, lignée de Shizuto Masunaga \| Shiatsu France**
+# **Le Zen shiatsu, lignée de Shizuto Masunaga \**
 
 C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait parti de la même famille que l'accupuncture. Il requiert des connaissances solides en Médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
 
-# Au Japon
-Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle.
-# En Europe 
- Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
-# Mondialement
-Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
-
-# En france
-Le shiatsu est représenté officiellement par le SPS ( syndicat professionel de Shiatsu) et la FFST ( Fédération Française de Shiatsu).
+- Au Japon: Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle.
+- En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
+-Mondialement: Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
+- En france: Le shiatsu est représenté officiellement par le SPS ( syndicat professionel de Shiatsu) et la FFST ( Fédération Française de Shiatsu).
 
 # Les méridiens, c'est quoi exactement?
 On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain, interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
@@ -36,6 +31,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 # **Votre séance**
 
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="300px"}
+
 *©Jade Hémon*
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
@@ -99,7 +95,4 @@ Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
 
 **Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle**
 
-# Mentions légales Shiatsu
 
-Le Shiatsu ne se substituent pas aux traitements de la médecine allopathique ou psychiatrique et ne sont nullement associées à la kinésithérapie selon l’article L.4321-21 du Code de la Santé Publique et au décret n° 96-879 du 8 octobre 1996, modifié par décret n° 2000-577 du 27 Juin 2000.
-En cas de malaise important ou de maladie, consultez d'abord un médecin ou un professionnel de la santé en mesure d'évaluer adéquatement votre état de santé.
