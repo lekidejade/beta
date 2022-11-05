@@ -26,9 +26,9 @@ N'attendez plus, je suis déjà parmis vous!
 
 # *Tarifs*
 
-- Forfait fixe demi-journée: 450€ pour 6 reveveurs - 45 min par personne.
+- Forfait fixe demi-journée: 450€ pour 6 receveurs - 45 min par personne.
 - Devis sur mesure selon le nombre de participants
 
 
-# *Ils me font déjà confiance*
+# *Mes clients*
 ==> Intégrer Logo WOJO Neuilly et Coeur-Défense 
