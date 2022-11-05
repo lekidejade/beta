@@ -83,7 +83,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour J et après.
 
-# **Les effets et bienfaits du Shiatsu**
+# *Les effets et bienfaits du Shiatsu*
 
 - Le shiatsu intervient sur une double dimension: Le soulagement des douleurs chroniques, des " symptômes" apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
 
