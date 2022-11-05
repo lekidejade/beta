@@ -30,5 +30,4 @@ bodyClass: page-particulier
 ## [**Pour réserver**](/contact)
 
 # Mutuelles
-Retrouvez ici la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS
-taguer [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"}.   
+Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS.
