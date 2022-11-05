@@ -9,14 +9,14 @@ bodyClass: page-shiatsu
 
 Shizuto Masunaga
 
-# **Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...**
+# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
 **Shi** : Pression
 **Atsu** : doigts
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="300px"}
 
-# **Le Zen shiatsu, lignée de Shizuto Masunaga \**
+# *Le Zen shiatsu, lignée de Shizuto Masunaga *
 
 C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait parti de la même famille que l'accupuncture. Il requiert des connaissances solides en Médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
 
@@ -25,10 +25,10 @@ C’est une technique manuelle ancestrale Japonaise de digipression, mobilisatio
 -Mondialement: Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
 - En france: Le shiatsu est représenté officiellement par le SPS ( syndicat professionel de Shiatsu) et la FFST ( Fédération Française de Shiatsu).
 
-# Les méridiens, c'est quoi exactement?
+# *Les méridiens, c'est quoi exactement?*
 On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain, interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
 
-# **Votre séance**
+# *Votre séance*
 
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="300px"}
 
@@ -37,7 +37,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
 Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
-**La séance se déroule de la façon suivante:**
+# *La séance se déroule de la façon suivante:*
 
 - Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu
 
@@ -52,7 +52,7 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 - A la fin de la séance: un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
-**Le shiatsu est efficace pour**
+# *Le shiatsu est efficace pour*
 
 - Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines, ...
 
