@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-# *Pour prendre rendez-vous:*
+# *Pour prendre rendez-vous*
 
 - Me contacter par mail ou SMS/ whatsapp
 
