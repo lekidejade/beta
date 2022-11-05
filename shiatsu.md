@@ -32,7 +32,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-*Anpuquarelle ©Jade Hémon* {style=text-align:center}
+*©Anpuquarelle par Jade Hémon* {:style=text-align:center}
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
 Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
@@ -66,7 +66,7 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 - Troubles gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire, etc.
 
-- Suivi et accompagnement pendant/ après la grossesse
+- Suivi et accompagnement pendant/après la grossesse
 
 - Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie…
 
