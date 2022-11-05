@@ -5,7 +5,7 @@ description: Shiatsu
 bodyClass: page-shiatsu
 ---
 
-« Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre. »
+> « Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre. »
 
 Shizuto Masunaga
 
@@ -14,9 +14,9 @@ Shizuto Masunaga
 **Shi** : Pression
 **Atsu** : doigts
 
-![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="300px"}
+![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="300px" style="display:block; margin-left:auto; margin-right:auto"}
 
-# *Le Zen shiatsu, lignée de Shizuto Masunaga *
+# *Le Zen shiatsu, lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait parti de la même famille que l'accupuncture. Il requiert des connaissances solides en Médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
 
@@ -30,7 +30,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 
 # *Votre séance*
 
-![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="300px"}
+![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="300px" style="display:block; margin-left:auto; margin-right:auto"}
 
 *©Jade Hémon*
 
