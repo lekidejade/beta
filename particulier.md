@@ -15,7 +15,7 @@ bodyClass: page-particulier
 | **2 heures**                 | 110€         | Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance) |
 | **4 x 90 minutes**           | 300€         | Forfait "changement de saison"                                                                                   |
 
-**Pour des forfaits de 3, 6, 8 séances** et suivi spécifiques (douleurs chroniques, patholgies lourdes), demandez moi un devis.
+**Pour des forfaits de 3, 6, 8 séances** et suivi spécifique (douleurs chroniques, patholgies lourdes), contactez-moi pour un devis.
 
 # *Domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
