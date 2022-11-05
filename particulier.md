@@ -5,7 +5,7 @@ description: Particulier
 bodyClass: page-particulier
 ---
 
-# Durées et Tarifs en cabinet
+# *Durées et Tarifs en cabinet*
 
 | Durée                        | Prix         | Description                                                                                                      |
 | ---------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -17,10 +17,10 @@ bodyClass: page-particulier
 
 **Pour des forfaits de 3, 6, 8 séances** et suivi spécifiques (douleurs chroniques, patholgies lourdes), demandez moi un devis.
 
-# Domicile
+# *Domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
 
-# Horaires et réservations
+# *Horaires et réservations*
 
 | Jour         | Heures      | Lieu                                                                                                     |
 | ------------ | ----------- | -------------------------------------------------------------------------------------------------------- |
@@ -34,5 +34,5 @@ Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne
 
 ## [**Pour réserver**](/contact)
 
-# Mutuelles
+# *Mutuelles*
 Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS.
