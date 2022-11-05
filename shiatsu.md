@@ -93,6 +93,6 @@ Chaque séance est unique, car vous être unique. Chaque séance vous ressemble,
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
 Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
 
-**Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle**
+*Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle*
 
 
