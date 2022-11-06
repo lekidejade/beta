@@ -11,22 +11,21 @@ bodyClass: page-shiatsu
 
 # *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
-**Shi** : Pression
-**Atsu** : doigts
+**Shi** : Pression **Atsu** : doigts
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 # *Le Zen shiatsu, lignée de Shizuto Masunaga*
 
-C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait parti de la même famille que l'accupuncture. Il requiert des connaissances solides en Médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
+C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
 
-- Au Japon: Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle.
+- Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle.
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
--Mondialement: Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
-- En france: Le shiatsu est représenté officiellement par le SPS ( syndicat professionel de Shiatsu) et la FFST ( Fédération Française de Shiatsu).
+- Mondialement : Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
+- En France : Le Shiatsu est représenté officiellement par le SPS (syndicat professionel de Shiatsu) et la FFST (Fédération Française de Shiatsu).
 
-# *Les méridiens, c'est quoi exactement?*
-On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain, interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
+# *Que sont les méridiens ?*
+On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
 
 # *Votre séance*
 
@@ -35,23 +34,22 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 {:style="text-align:center"}
 Anpuquarelle par Jade Hémon
 
-Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
-Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
+Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
 # *La séance se déroule de la façon suivante*
 
-- Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu
+- Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu.
 
-- Un bilan par l’observation: de votre posture, votre structure anatomique et caractéristiques physiques
+- Un bilan par l’observation : de votre posture, votre structure anatomique et caractéristiques physiques.
 
-- Un échange de 15 min: sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques)
+- Un échange de 15 minutes : sur vos antécédents médicaux et raisons qui vous amène à consulter (sommeil, alimentation, troubles physiques et/ou psychiques).
 
-- Un bilan par l’écoute: le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
+- Un bilan par l’écoute : le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
-- Allongé sur le dos:  j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
+- Allongé sur le dos : j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
 Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
 
-- A la fin de la séance: un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
+- À la fin de la séance : un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
 # *Le shiatsu est efficace pour*
 
@@ -80,13 +78,13 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Addictions et troubles du comportement
 
-- Accompagnement maladies de longue durée: cancers ( mieux vivre les effets secondaires des chimios, apporter du bien-être)
+- Accompagnement maladies de longue durée : cancers (mieux vivre les effets secondaires des chimio-thérapies, apporter du bien-être)
 
-- Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour J et après.
+- Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
 # *Les effets et bienfaits du Shiatsu*
 
-- Le shiatsu intervient sur une double dimension: Le soulagement des douleurs chroniques, des " symptômes" apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
+- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
 
 - En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement…
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
@@ -94,6 +92,6 @@ Chaque séance est unique, car vous être unique. Chaque séance vous ressemble,
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
 Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
 
-*Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle*
+**Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
 
 
