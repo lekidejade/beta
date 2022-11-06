@@ -9,7 +9,7 @@ bodyClass: page-shiatsu
 >
 > -- Shizuto Masunaga
 
-# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique*
+# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
 - **Shi** : pression
 - **Atsu** : doigts
@@ -31,7 +31,7 @@ C’est une technique manuelle ancestrale Japonaise de digipression, mobilisatio
 - Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le Shiatsu du massage. 
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
 - Mondialement : Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
-- En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de Shiatsu) et la FFST (Fédération Française de Shiatsu) et il est reconnu par l'État et le Ministère de l'Emploi depuis 2015.
+- En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de Shiatsu) et la FFST (Fédération Française de Shiatsu) et il est reconnu par l'état et le ministère de l'emploi depuis 2015.
 
 # *Que sont les méridiens ?*
 
@@ -73,17 +73,17 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 # *Efficacité du Shiatsu*
 
+- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
+
 - Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
 
-- Tensions musculaires ou tendineuses/osseuses: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
+- Trouble musculo-squelettique: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
 
-- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, maladie chronique du tube digestif (RCH, côlon irritable), reflux gastriques.
-
-- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars.
+- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, colopathie fonctionnelle (RCH, côlon irritable), reflux gastriques
 
 - Troubles cardiaques, hypertension.
 
-- Troubles gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire.
+- Troubles gynécologiques: règles douloureuses et endométriose, cystite ou infection urinaire.
 
 - Suivi et accompagnement pendant/après la grossesse.
 
@@ -94,7 +94,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Renforcer votre système immunitaire et votre énergie vitale (Ki). 
 
-- Soutenir le système lymphatique et parasympathique.
+- Soutenir le système lymphatique et neuro-végétatif.
 
 - Addictions et troubles du comportement.
 
@@ -104,12 +104,12 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 # *Effets et bienfaits du Shiatsu*
 
-- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin.
+- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
 
-- En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement.
+- En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement…
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
-Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines.
-Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement. C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
+Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines... 
+Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
 Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
 
 **Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
