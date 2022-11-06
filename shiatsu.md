@@ -11,11 +11,11 @@ bodyClass: page-shiatsu
 
 # *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
-- **Shi** : pression \
-- **Atsu** : doigts \
-- **Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu \
-- **Ki** : énergie vitale \
-- **Kyo** : état de vide d'energie en relation au Yin \
+- **Shi** : pression  
+- **Atsu** : doigts  
+- **Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu  
+- **Ki** : énergie vitale  
+- **Kyo** : état de vide d'energie en relation au Yin  
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
@@ -34,16 +34,24 @@ C’est une technique manuelle ancestrale Japonaise de digipression, mobilisatio
 - En France : Le Shiatsu est représenté officiellement par le SPS (syndicat professionel de Shiatsu) et la FFST (Fédération Française de Shiatsu).
 
 # *Que sont les méridiens ?*
-On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8).
 
+On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8). Les méridiens fonctionnent par paire et sont associés aux 5 éléments et saisons de la médecine traditionnelle chinoise.
+ 
+ - Metal | Automne | Poumon-Gros Intestin
+ - Eau | Hiver | Reins-Vessie
+ - Bois | Printemps | Foie-Vésicule Biliaire
+ - Feu | Été | Coeur-Intestin Grêle, Maitre-Coeur-Tripple Réchauffeur
+ - Terre | Intersaison | Rate-Estomac
+ 
+À chaque élement, saisons, organes et méridiens correspondants sont associés des déséquilibre physiques et psychiques qu'il est possible de réguler et accompagner en Shiatsu.
+ 
 # *Votre séance*
 
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {:style="text-align:center"}
-Anpuquarelle par Jade Hémon, représentation du bilan du ventre effectué au début d'une séance.\
-
-Par ailleurs, j'utilise une technique spécifique lié au travail du ventre qu'on appelle *Anpuku*,  enseignée par Shizuto Masunaga. 
+Anpuquarelle par Jade Hémon, représentation du bilan du ventre effectué au début d'une séance.  
+Par ailleurs, j'utilise une technique spécifique lié au travail du ventre qu'on appelle *Anpuku*, enseignée par Shizuto Masunaga. 
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
