@@ -34,5 +34,9 @@ bodyClass: page-particulier
 # *Domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
 
+# *Modes de paiement*
+- Liquide
+- CB (bientôt disponible)
+
 # *Mutuelles*
-Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS.
+Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS. Une facture vous sera remise sur demande.
