@@ -4,7 +4,7 @@ layout: page
 description: Qui suis-je ?
 ---
 
-![Jade](/images/qui-suis-je/jade.jpg){:width="60%" style="display:block; margin-left:auto; margin-right:auto"}
+![L4283873](/images/qui-suis-je/jade.jpg){:width="60%" style="display:block; margin-left:auto; margin-right:auto"}
 Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le Shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher Japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
 Mon rapport au toucher a toujours été unique, pianiste, danseuse et artiste depuis mon plus jeune âge, je voyais et ressentais le monde, les autres, avec une grande sensibilité. Mon empathie et mon écoute de l'autre me mène à travailler sur la posture de donner et recevoir. En Shiatsu, c'est un échange, il n'y a pas de don de soi, c'est un cycle où chacun se nourrit et respecte les besoins de son corps et son esprit. Pour s'occuper de l'autre, il faut être dans une écoute subtile de son intériorité. C'est cette philosophie, cet art de vivre qui me guide et m'anime chaque jour, pour être là, pour vous, à chaque instant.
 
