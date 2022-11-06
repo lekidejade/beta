@@ -9,6 +9,8 @@ Je propose des Shiatsu à dimension thérapeutique plus que de bien-être aux co
 
 # *Pourquoi les entreprises ?*
 
+![WOJO](/images/entreprise/wojo-post.jpg){:width="100%" style="display:block; margin-left:auto; margin-right:auto"}
+
 - Sensibiliser individuellement les salariés sur ce qu’est fondamentalement la pratique du Shiatsu et ce qu’elle implique dans leur vie professionnelle et personnelle me semble fondamental de nos jours.
 En effet, le Shiatsu n’est pas un massage, c’est une invitation à l’introspection et c’est *un art du toucher* qui prend en compte la santé dans sa globalité. On va travailler par exemple sur des troubles musculo-squelettique, des dérèglements physiologique et hormonaux, mais aussi des traumas ou des problématiques enfouies.
 - J’importe en fait mon cabinet au cœur des entreprises avec suivi mensuel : séance de 45 minutes (action ciblées) à 1h (burn-out, stress, deuil compliqué à faire notamment quand le travail prend le dessus, règles douloureuses pour toutes les femmes qui en souffrent et difficile à gérer sur le lieu de travail, etc.).
@@ -17,7 +19,7 @@ En effet, le Shiatsu n’est pas un massage, c’est une invitation à l’intro
 - Sensibiliser sur les bienfaits du Shiatsu comme une technique qui permet d’aller chercher des réponses en soi, mais pas d’influence ou d’ingérence sur l’individu. Ce n’est pas une technique magique, ni ésotérique, elle est fondée sur des principes fondamentaux ancestraux et un accompagnement pour retrouver son chemin et son alignement. En tant que spécialiste, je n'agis pas pour vous, je suis juste un outil pour vous reconnecter. Lors d'un soin, je "disparais", je suis neutre.
 - Possibilité aux CSE et dirigeants d'entreprise d'investir pour une meilleure santé de leurs salariés au travail.
 
-# *Pourquoi le personnel soignant (hopitaux, résidences séniors, Ephad...) ?*
+# *Pourquoi le personnel soignant (hopitaux, résidences séniors, Ephad) ?*
 
 Il ne fait nul doute que tout le personnel du corps médical prend une pression quotidienne inconsidérée et parfois inimaginable. La période Covid a permis de démocratiser le sujet, mais cela a toujours été le cas !
 
@@ -34,4 +36,4 @@ N'attendez plus, je suis déjà parmis vous !
 - CB (bientôt disponible)
 
 # *Mes clients*
-![WOJO](/images/entreprise/wojo-logo.svg){:width="50%"}
+![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}
