@@ -9,7 +9,7 @@ bodyClass: page-shiatsu
 >
 > -- Shizuto Masunaga
 
-# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
+# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique*
 
 - **Shi** : pression
 - **Atsu** : doigts
@@ -104,12 +104,12 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 # *Effets et bienfaits du Shiatsu*
 
-- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
+- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin.
 
-- En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement…
+- En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement.
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
-Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines... 
-Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement... C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
+Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines.
+Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement. C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
 Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
 
 **Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
