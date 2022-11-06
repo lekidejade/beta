@@ -16,7 +16,8 @@ Quand je donne un shiatsu, je suis pleinement en conscience du Ki du receveur (�
 # *Ma formation à Toshiatsu Paris*
 
 Je me suis formée pendant 3 ans à l’école de Do-In et Shiatsu enseigné par Toshi Ichikawa à Paris et je suis titulaire du titre de « Spécialiste en Shiatsu ». Il est délivré par le Syndicat des Professionnels de Shiatsu (SPS) et inscrit au registre national des certifications professionnelles. C’est pour l’instant le seul titre reconnu en France depuis 2015. Il donne la possibilité d’être pris en charge par un grand nombre de mutuelles. Par ailleurs, le Parlement Européen mentionne le Shiatsu comme une des « huit médecines non conventionnelles dignes d’intérêt » aux côtés de l’acupuncture et l’ostéopathie (résolution A4-0075/97)
-Il y a différents types de Shiatsus, celui que je pratique est issu de la lignée Zen Shiatsu de Shizuto Masunaga. Zen en Japonais signifie méditation. Quand je donne une séance au receveur, je fais circuler le Ki (l’énergie) dans un état méditatif, de conscience modifiée. Le mental ne dicte plus rien, c’est l’instinct et le ressenti qui parlent. Les connaissances théoriques de Shiatsu ou de Médecine traditionnelle chinoise appuient mes ressentis, et non l’inverse. 
+Il y a différents types de Shiatsu, celui que je pratique est issu de la lignée Zen Shiatsu de Shizuto Masunaga. Zen en Japonais signifie méditation. Quand je donne une séance au receveur, je fais circuler le Ki (l’énergie) dans un état méditatif, de conscience modifiée. Le mental ne dicte plus rien, c’est l’instinct et le ressenti qui parlent. Les connaissances théoriques de Shiatsu ou de Médecine traditionnelle chinoise appuient mes ressentis, et non l’inverse.
+
 
 _______________________________________________________________________________________
 
