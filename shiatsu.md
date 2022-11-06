@@ -22,7 +22,11 @@ bodyClass: page-shiatsu
 
 # *Le Zen shiatsu, lignée de Shizuto Masunaga*
 
-C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, Ki en japonais: l'énergie vitale. Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
+C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
+
+> Le Shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée "Ki" en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable
+> 
+> -- Shizuto Masunaga
 
 - Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
