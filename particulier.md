@@ -17,9 +17,6 @@ bodyClass: page-particulier
 
 **Pour des forfaits de 3, 6, 8 séances** et suivi spécifique (douleurs chroniques, patholgies lourdes), contactez-moi pour un devis.
 
-# *Domicile*
-Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
-
 # *Horaires et réservations*
 
 | Jour         | Heures      | Lieu                                                                                                     |
@@ -33,6 +30,9 @@ Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne
 | **Samedi**   | 09h00-16h00 | [Cabinet paramédical Michel-Ange - Paris 16ème](https://goo.gl/maps/iaTXLQDH3uFvms219){:target="_blank"} |
 
 ## [**Pour réserver**](/contact)
+
+# *Domicile*
+Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
 
 # *Mutuelles*
 Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS.
