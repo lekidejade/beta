@@ -11,13 +11,18 @@ bodyClass: page-shiatsu
 
 # *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
-**Shi** : pression **Atsu** : doigts **Tsubos**: points de traitements utilisés en acupuncture et en Shiatsu
+**Shi** : pression 
+**Atsu** : doigts 
+**Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu 
+**Ki** : énergie vitale
+**Kyo** : état de vide d'energie en relation au Yin 
+**Jitsu** : état d'excès d'énergie en relation au Yang
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 # *Le Zen shiatsu, lignée de Shizuto Masunaga*
 
-C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques. Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
+C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, Ki en japonais: l'énergie vitale. Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie.
 
 - Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
@@ -54,30 +59,30 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 # *Le shiatsu est efficace pour*
 
-- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines, ...
+- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
 
-- Tensions musculaires ou tendineuses/osseuses: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose…
+- Tensions musculaires ou tendineuses/osseuses: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
 
-- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, maladie chronique du tube digestif (RCH, côlon irritable), reflux gastriques
+- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, maladie chronique du tube digestif (RCH, côlon irritable), reflux gastriques.
 
-- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars
+- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars.
 
-- Troubles cardiaques, hypertension, diabète
+- Troubles cardiaques, hypertension.
 
-- Troubles gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire, etc.
+- Troubles gynécologiques: règles douloureuses et endométriose,, cystite ou infection urinaire.
 
-- Suivi et accompagnement pendant/après la grossesse
+- Suivi et accompagnement pendant/après la grossesse.
 
-- Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie…
+- Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie.
 
 - Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
 Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
 
-- Renforcer votre système immunitaire et votre énergie vitale (Ki) 
+- Renforcer votre système immunitaire et votre énergie vitale (Ki). 
 
-- Soutenir le système lymphatique et parasympathique 
+- Soutenir le système lymphatique et parasympathique.
 
-- Addictions et troubles du comportement
+- Addictions et troubles du comportement.
 
 - Accompagnement maladies de longue durée : cancers (mieux vivre les effets secondaires des chimio-thérapies, apporter du bien-être)
 
