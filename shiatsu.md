@@ -1,5 +1,5 @@
 ---
-title: Le Shiatsu
+title: Le shiatsu
 layout: shiatsu
 description: Shiatsu
 bodyClass: page-shiatsu
@@ -9,29 +9,29 @@ bodyClass: page-shiatsu
 >
 > -- Shizuto Masunaga
 
-# *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique*
+# *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
 - **Shi** : pression
 - **Atsu** : doigts
-- **Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu
+- **Tsubos** : points de traitements utilisés en acupuncture et en shiatsu
 - **Ki** : énergie vitale
 - **Kyo** : état de vide d'energie en relation au Yin
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
-![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
+![Zen-shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
 
-# *Zen-Shiatsu, lignée de Shizuto Masunaga*
+# *Zen-shiatsu, lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
-> Le Shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable.
+> Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable.
 > 
 > -- Shizuto Masunaga
 
-- Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le Shiatsu du massage. 
-- En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
-- Mondialement : Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
-- En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de Shiatsu) et la FFST (Fédération Française de Shiatsu) et il est reconnu par l'État et le Ministère de l'Emploi depuis 2015.
+- Au Japon : Depuis 1955, le shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
+- En Europe : Le shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
+- Mondialement : Le shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
+- En France : Le shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de shiatsu) et la FFST (Fédération Française de shiatsu) et il est reconnu par l'État et le Ministère de l'Emploi depuis 2015.
 
 # *Que sont les méridiens ?*
 
@@ -43,7 +43,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 | Feu   | Été         | Coeur-Intestin Grêle, Maitre-Coeur-Tripple Réchauffeur |
 | Terre | Intersaison | Rate-Estomac                                           |
  
-À chaque élement, saison, organe et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en Shiatsu.
+À chaque élement, saison, organe et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en shiatsu.
  
 # *Votre séance*
 
@@ -56,7 +56,7 @@ Anpuquarelle par Jade Hémon
 
 J'utilise une technique spécifique liée au travail du ventre qu'on appelle *Anpuku*, enseignée par Shizuto Masunaga.
 
-Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
+Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
 
 - Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu.
 
@@ -67,11 +67,11 @@ Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut a
 - Un bilan par l’écoute : le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
 - Allongé sur le dos : j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
-Pour les plus curieux : en Shiatsu, on identifie les zones Kyo (lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
+Pour les plus curieux : en shiatsu, on identifie les zones Kyo (lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
 
-- À la fin de la séance : un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
+- À la fin de la séance : un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
-# *Efficacité du Shiatsu*
+# *Efficacité du shiatsu*
 
 - Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
 
@@ -102,14 +102,14 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-# *Effets et bienfaits du Shiatsu*
+# *Effets et bienfaits du shiatsu*
 
-- Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin.
+- Le shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin.
 
 - En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement.
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
 Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines.
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement. C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie. 
-Le Shiatsu pourra être le début d’une véritable thérapie corporelle.
+Le shiatsu pourra être le début d’une véritable thérapie corporelle.
 
 **Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**

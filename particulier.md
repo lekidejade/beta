@@ -39,4 +39,4 @@ Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne
 - CB (bientôt disponible)
 
 # *Mutuelles*
-Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le Shiatsu encadré par le SPS. Une facture vous sera remise sur demande.
+Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le shiatsu encadré par le SPS. Une facture vous sera remise sur demande.

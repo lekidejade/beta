@@ -1,5 +1,5 @@
 main:
-  - name: "Le Shiatsu"
+  - name: "Le shiatsu"
     url: "/shiatsu/"
     weight: 1
   - name: "Qui suis-je ?"
