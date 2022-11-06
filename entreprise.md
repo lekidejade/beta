@@ -35,5 +35,5 @@ N'attendez plus, je suis déjà parmis vous !
 - Virement bancaire
 - CB (bientôt disponible)
 
-# *Mes amabassadeurs*
+# *Mes ambassadeurs*
 ![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}
