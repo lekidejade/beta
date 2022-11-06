@@ -43,9 +43,9 @@ Anpuquarelle par Jade Hémon
 - **Kyo** : état de vide d'energie en relation au Yin
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
-![Zen-shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
+![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
 
-# *Zen-shiatsu, lignée de Shizuto Masunaga*
+# *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
@@ -70,7 +70,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
  
 À chaque élement, saison, organe et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en shiatsu.
 
-# *Efficacité du shiatsu*
+# *L'efficacité du shiatsu*
 
 - Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
 
@@ -101,7 +101,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-# *Effets et bienfaits du shiatsu*
+# *Les effets et les bienfaits du shiatsu*
 
 Le shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin.
 
