@@ -36,4 +36,5 @@ N'attendez plus, je suis déjà parmis vous !
 - CB (bientôt disponible)
 
 # *Mes ambassadeurs*
-![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}
+
+[![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}](https://www.wojo.com/fr-FR)
