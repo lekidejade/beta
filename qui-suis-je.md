@@ -4,7 +4,7 @@ layout: page
 description: Qui suis-je ?
 ---
 
-# *Le Ki de Jade*
+# *Jade*
 
 ![Jade](/images/qui-suis-je/jade.jpg){:width="60%" style="display:block; margin-left:auto; margin-right:auto"}
 Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le Shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher Japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
