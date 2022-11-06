@@ -34,6 +34,37 @@ Anpuquarelle par Jade Hémon
 
 *[Anpuquarelle]: Représentation du bilan du ventre effectué au début d'une séance
 
+# *Pourquoi venir consulter?*
+
+- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
+
+- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
+
+- Trouble musculo-squelettique: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
+
+- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, colopathie fonctionnelle (RCH, côlon irritable), reflux gastriques
+
+- Troubles cardiaques, hypertension.
+
+- Troubles gynécologiques: règles douloureuses et endométriose, cystite ou infection urinaire.
+
+- Suivi et accompagnement pendant/après la grossesse.
+
+- Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie.
+
+- Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
+Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
+
+- Renforcer votre système immunitaire et votre énergie vitale (Ki). 
+
+- Soutenir le système lymphatique et neuro-végétatif.
+
+- Addictions et troubles du comportement.
+
+- Accompagnement maladies de longue durée : cancers (mieux vivre les effets secondaires des chimio-thérapies, apporter du bien-être)
+
+- Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
+
 # *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
 - **Shi** : pression
@@ -69,37 +100,6 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 | Terre | Intersaison | Rate-Estomac                                           |
  
 À chaque élement, saison, organe et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en shiatsu.
-
-# *L'efficacité du shiatsu*
-
-- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
-
-- Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
-
-- Trouble musculo-squelettique: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
-
-- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, colopathie fonctionnelle (RCH, côlon irritable), reflux gastriques
-
-- Troubles cardiaques, hypertension.
-
-- Troubles gynécologiques: règles douloureuses et endométriose, cystite ou infection urinaire.
-
-- Suivi et accompagnement pendant/après la grossesse.
-
-- Maladies neuro-dégénératives et gestion de la douleur: parkinson, spondylarthrite ankylosante, fibromyalgie.
-
-- Chocs et traumatismes (physiques et/ou psychiques) : accident, opérations lourdes et travail sur la proprioception, douleurs fantômes, deuil, abus, travail sur la mémoire cellulaire.
-Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l'héritage énergétique de nos parents, ce qu'on appelle le Ki ancestral en médecine chinoise ainsi que tout ce qui nous traverse et nous impacte depuis notre naissance.
-
-- Renforcer votre système immunitaire et votre énergie vitale (Ki). 
-
-- Soutenir le système lymphatique et neuro-végétatif.
-
-- Addictions et troubles du comportement.
-
-- Accompagnement maladies de longue durée : cancers (mieux vivre les effets secondaires des chimio-thérapies, apporter du bien-être)
-
-- Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
 # *Les effets et les bienfaits du shiatsu*
 
