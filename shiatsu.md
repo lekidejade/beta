@@ -18,7 +18,7 @@ bodyClass: page-shiatsu
 - **Kyo** : état de vide d'energie en relation au Yin
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
-![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
+![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
 
 # *Zen-Shiatsu, lignée de Shizuto Masunaga*
 
@@ -47,7 +47,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
  
 # *Votre séance*
 
-![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
+![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {:style="text-align:center"}
 Anpuquarelle par Jade Hémon
@@ -67,7 +67,7 @@ Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut a
 - Un bilan par l’écoute : le son de votre voix, votre respiration, votre débit de parole pendant l’échange, etc.
 
 - Allongé sur le dos : j'établis un premier contact par le ventre afin de ressentir les déséquilibres des organes sur lesquels nous allons travailler pendant la séance via les méridiens correspondants.
-Pour les plus curieux : En shiatsu, on identifie les zones Kyo (lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
+Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) comme étant en vide, manque d'energie, et les zone Jitsu (lié au Yang) en plein, excès d'énergie. Il est possible de réguler ce déséqulibre en connectant comme un système de polarité: moins et plus. On disperse l'energie quand il y en a trop et on la renvoie vers la zone de vide. On tonifie la zone de vide en récupérant le surplus qui est ailleurs.
 
 - À la fin de la séance : un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 

@@ -13,7 +13,7 @@ bodyClass: page-particulier
 | **1 heure**                  | 70€          | Recommandée pour un suivi thérapeuthique                                                                         |
 | **90 minutes**               | 90€          | Recommandée pour un suivi thérapeuthique et surtout dans le cadre de la première séance                          |
 | **2 heures**                 | 110€         | Shiatsu + Do In (étirements pour fluidifier votre énergie au quotidien et entretenir les bienfaits de la séance) |
-| **4 x 90 minutes**           | 300€         | Forfait annuel "changement de saison" ( rythme à définir ensemble)                                                                                  |
+| **4 x 90 minutes**           | 300€         | Forfait annuel *changement de saison* (rythme à définir ensemble)                                                |
 
 **Pour des forfaits de 3, 6, 8 séances** et suivi spécifique (douleurs chroniques, pathologies lourdes), contactez-moi pour un devis.
 
