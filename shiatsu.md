@@ -31,7 +31,7 @@ C’est une technique manuelle ancestrale Japonaise de digipression, mobilisatio
 - Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le Shiatsu du massage. 
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
 - Mondialement : Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
-- En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat Professionnel de Shiatsu) et la FFST (Fédération Française de Shiatsu).
+- En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de Shiatsu) et la FFST (Fédération Française de Shiatsu) et il est reconnu par l'état et le ministère de l'emploi depuis 2015.
 
 # *Que sont les méridiens ?*
 
