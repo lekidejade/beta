@@ -43,7 +43,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 | Feu   | Été         | Coeur-Intestin Grêle, Maitre-Coeur-Tripple Réchauffeur |
 | Terre | Intersaison | Rate-Estomac                                           |
  
-À chaque élement, saisons, organes et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en Shiatsu.
+À chaque élement, saison, organe et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en Shiatsu.
  
 # *Votre séance*
 
