@@ -20,7 +20,7 @@ bodyClass: page-shiatsu
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-# *Zen shiatsu, lignée de Shizuto Masunaga*
+# *Zen-Shiatsu, lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
@@ -28,7 +28,7 @@ C’est une technique manuelle ancestrale Japonaise de digipression, mobilisatio
 > 
 > -- Shizuto Masunaga
 
-- Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
+- Au Japon : Depuis 1955, le Shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le Shiatsu du massage. 
 - En Europe : Le Shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
 - Mondialement : Le Shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
 - En France : Le Shiatsu est représenté officiellement par le SPS (Syndicat Professionnel de Shiatsu) et la FFST (Fédération Française de Shiatsu).
