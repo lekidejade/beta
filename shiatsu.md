@@ -11,12 +11,12 @@ bodyClass: page-shiatsu
 
 # *Pour bien appréhender les notions de Shiatsu et mieux comprendre les bénéfices de cette pratique...*
 
-**Shi** : pression 
-**Atsu** : doigts 
-**Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu 
-**Ki** : énergie vitale
-**Kyo** : état de vide d'energie en relation au Yin 
-**Jitsu** : état d'excès d'énergie en relation au Yang
+**Shi** : pression \
+**Atsu** : doigts \
+**Tsubos** : points de traitements utilisés en acupuncture et en Shiatsu \
+**Ki** : énergie vitale \
+**Kyo** : état de vide d'energie en relation au Yin \
+**Jitsu** : état d'excès d'énergie en relation au Yang \
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -37,7 +37,7 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {:style="text-align:center"}
-Anpuquarelle par Jade Hémon, représentation du bilan du ventre effectué au début d'une séance. 
+Anpuquarelle par Jade Hémon, représentation du bilan du ventre effectué au début d'une séance. \ 
 Par ailleurs, j'utilise une technique spécifique lié au travail du ventre qu'on appelle *Anpuku*,  enseignée par Shizuto Masunaga. 
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
