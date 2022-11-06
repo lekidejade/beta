@@ -34,4 +34,4 @@ N'attendez plus, je suis déjà parmis vous !
 - CB (bientôt disponible)
 
 # *Mes clients*
-==> Intégrer Logo WOJO Neuilly et Coeur-Défense 
+![WOJO](/images/entreprise/wojo-logo.svg){:width="50%"}

@@ -43,14 +43,17 @@ On peut comprendre les méridiens en tant que voie de circulation du Ki (énergi
 | Feu   | Été         | Coeur-Intestin Grêle, Maitre-Coeur-Tripple Réchauffeur |
 | Terre | Intersaison | Rate-Estomac                                           |
  
-À chaque élement, saisons, organes et méridiens correspondants sont associés des déséquilibre physiques et psychiques qu'il est possible de réguler et d'accompagner en Shiatsu.
+À chaque élement, saisons, organes et méridiens correspondants sont associés des déséquilibres physiques et psychiques qu'il est possible de réguler et d'accompagner en Shiatsu.
  
 # *Votre séance*
 
 ![Anpuquarelle](/images/shiatsu/anpuquarelle.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {:style="text-align:center"}
-Anpuquarelle par Jade Hémon, représentation du bilan du ventre effectué au début d'une séance.  
+Anpuquarelle par Jade Hémon
+
+*[Anpuquarelle]: Représentation du bilan du ventre effectué au début d'une séance
+
 Par ailleurs, j'utilise une technique spécifique lié au travail du ventre qu'on appelle *Anpuku*, enseignée par Shizuto Masunaga. 
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
