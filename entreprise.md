@@ -37,4 +37,4 @@ N'attendez plus, je suis déjà parmis vous !
 
 # *Mes ambassadeurs*
 
-[![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}](https://www.wojo.com/fr-FR)
+[![WOJO](/images/entreprise/wojo-logo.svg){:width="25%"}](https://www.wojo.com/fr-FR){:target="_blank"}
