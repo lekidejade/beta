@@ -8,10 +8,9 @@ description: Contact
 
 - Me contacter par mail ou SMS/Whatsapp et m'indiquer votre nom, prénom, disponibilités, temps de séance souhaitée.
 
-- Je vous réponds dans les plus brefs délais et nous échangerons sur ce qui vous amène à venir consulter avant notre première séance. Ma démarche est de prendre le temps, pour vous, et de vous acceuilir dans les meilleures conditions pour rester maître de notre temps.
+- Je vous réponds dans les plus brefs délais et nous échangerons sur ce qui vous amène à venir consulter avant notre première séance. Ma démarche est de prendre le temps, pour vous, et de vous acceuilir dans les meilleures conditions pour rester maître de notre temps. Je ne fonctionne pas avec un sytème de prise de rendez-vous en ligne afin de pouvoir travailler sur mesure selon vos besoins.
 
-- Pour la séance pensez à prendre une tenue souple, de préférence avec le corps recouvert de tissus plutôt fin et qui laisse la peau respirer, pour des pressions plus agréables, ainsi qu’un pull/ chaussettes pour ne pas vous refroidir pendant la séance. Si vous le souhaitez aussi, une serviette ou un tissu pour le visage.
-
+- Pour vos séances, pensez à prendre une tenue souple, de préférence avec le corps recouvert de tissus plutôt fin, et qui laisse la peau respirer, pour des pressions plus agréables. Il est aussi important de prendre un pull et des chaussettes pour ne pas vous refroidir pendant la séance car le rythme cardiaque ralentit. J'ai toujours pour vous une couverture chaude, des serviettes pour le visage et des tissus supplémentaires.
 
 # *Mentions légales*
 
