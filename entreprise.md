@@ -9,7 +9,7 @@ Je propose des Shiatsu à dimension thérapeutique plus que de bien-être aux co
 
 # *Pourquoi les entreprises ?*
 
-![WOJO](/images/entreprise/wojo-post.jpg){:width="100%" style="display:block; margin-left:auto; margin-right:auto"}
+![WOJO](/images/entreprise/wojo-post.jpg){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 - Sensibiliser individuellement les salariés sur ce qu’est fondamentalement la pratique du Shiatsu et ce qu’elle implique dans leur vie professionnelle et personnelle me semble fondamental de nos jours.
 En effet, le Shiatsu n’est pas un massage, c’est une invitation à l’introspection et c’est *un art du toucher* qui prend en compte la santé dans sa globalité. On va travailler par exemple sur des troubles musculo-squelettique, des dérèglements physiologique et hormonaux, mais aussi des traumas ou des problématiques enfouies.
