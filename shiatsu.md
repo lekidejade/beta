@@ -20,7 +20,7 @@ bodyClass: page-shiatsu
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-# *Le Zen shiatsu, lignée de Shizuto Masunaga*
+# *Zen shiatsu, lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise de digipression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
@@ -55,8 +55,6 @@ Par ailleurs, j'utilise une technique spécifique lié au travail du ventre qu'o
 
 Le soin Shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue décontractée pour être à l’aise, idéalement avec un tissu souple et fin. 
 
-# *La séance se déroule de la façon suivante*
-
 - Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu.
 
 - Un bilan par l’observation : de votre posture, votre structure anatomique et caractéristiques physiques.
@@ -70,7 +68,7 @@ Pour les plus curieux : En shiatsu, on identifie les zones Kyo ( lié au Yin) co
 
 - À la fin de la séance : un moment de calme et de silence vous est réservé, et quelques conseils sur des étirements, postures, auto-shiatsu à réaliser chez vous, ce qu'on appelle Do In. Le Do In complète le Shiatsu afin de faire durer les bienfaits de la séance et de vous rendre pro-actif de votre santé. Un temps d'échange si vous le souhaitez, soit pour exprimer vos ressentis, soit pour vous expliquer le travail que nous avons fait.
 
-# *Le shiatsu est efficace pour*
+# *Efficacité du Shiatsu*
 
 - Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
 
@@ -101,7 +99,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-# *Les effets et bienfaits du Shiatsu*
+# *Effets et bienfaits du Shiatsu*
 
 - Le Shiatsu intervient sur une double dimension : Le soulagement des douleurs chroniques, des *symptômes* apparents d'une maladie ou déséquilibre. Mais il va beaucoup plus loin... 
 
