@@ -6,7 +6,7 @@ description: Contact
 
 # *Pour prendre rendez-vous*
 
-- Me contacter par mail ou SMS/WhatsApp et m'indiquer votre nom, prénom, disponibilités, temps de séance souhaitée.
+- Me contacter par mail, SMS ou WhatsApp et m'indiquer votre nom, prénom, disponibilités, temps de séance souhaité.
 
 - Je vous réponds dans les plus brefs délais et nous échangerons sur ce qui vous amène à venir consulter avant notre première séance. Ma démarche est de prendre le temps, pour vous, et de vous acceuilir dans les meilleures conditions pour rester maître de notre temps. Je ne fonctionne pas avec un sytème de prise de rendez-vous en ligne afin de pouvoir travailler sur mesure selon vos besoins.
 
