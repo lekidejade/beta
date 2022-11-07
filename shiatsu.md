@@ -12,7 +12,8 @@ C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation,
 > "Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable."
 > 
 > -- Shizuto Masunaga
-> 
+
+
 # *Votre séance*
 
 Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
