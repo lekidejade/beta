@@ -118,3 +118,8 @@ Il va permettre au receveur d’être à l’écoute de son corps, de ses ressen
 Le shiatsu pourra être le début d’une véritable thérapie corporelle.
 
 **Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
+
+# *Mentions légales*
+
+Le Shiatsu ne se substitue pas aux traitements de la médecine allopathique ou psychiatrique et ne sont nullement associées à la kinésithérapie selon l’article L.4321-21 du Code de la Santé Publique et au décret n° 96-879 du 8 octobre 1996, modifié par décret n° 2000-577 du 27 Juin 2000.
+En cas de malaise important ou de maladie, consultez d'abord un médecin ou un professionnel de la santé en mesure d'évaluer adéquatement votre état de santé.
