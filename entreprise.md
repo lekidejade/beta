@@ -11,7 +11,7 @@ Je propose des Shiatsu à dimension thérapeutique plus que de bien-être aux co
 En venant à vous, je serai peut-être un déclencheur sur une démarche que vous n’auriez pas fait seul. Une invitation à vous reconnecter à vos racines profondes de façon progressive et respectueuse de votre état du moment, pour ralentir votre intérieur, fouiller dans les parts de vous oubliées, parfois sabotées.
 C'est aussi l'opportunité de sensibiliser autour de vous sur l'impact du Shiatsu, et de créer des synergies positives entre collaborateurs, du soutien, de l'écoute et de la bienveillance. Quand quelqu'un ne va pas bien sur son lieu de travail, sans juger ou présumer de ce qui lui arrive: " et si tu recevais une séance de Shiatsu?" 
 
- Prendre soin de sa santé, ce n'est pas attendre que le mal soit déjà présent...
+Prendre soin de sa santé au quotidien en prévention permet de ne pas laisser installer la maladie.
 
  *Témoignage d'une collaboratrice illustrant la problématique du Burn-out*
 >
