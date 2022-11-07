@@ -23,7 +23,7 @@ bodyClass: page-particulier
 | ------------ | ----------- | -------------------------------------------------------------------------------------------------------- |
 | **Lundi**    | 12h00-20h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
 | **Mardi**    | 10h00-13h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
-| **Mardi**    | 15h00-20h00 | [Studio de médiation Bloom - Paris 2ème](https://goo.gl/maps/rVRGeksaMLenS49k8){:target="_blank"}        |
+| **Mardi**    | 15h00-20h00 | [Studio de méditation Bloom - Paris 2ème](https://goo.gl/maps/rVRGeksaMLenS49k8){:target="_blank"}       |
 | **Mercredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
 | **Jeudi**    | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
 | **Vendredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
