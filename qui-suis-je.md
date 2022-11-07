@@ -14,7 +14,7 @@ Pour s'occuper de l'autre, il faut être dans une écoute subtile de son intéri
 
 ![Jade](/images/qui-suis-je/L4283873.jpg){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
-> Il y a un lien direct entre le corps et l’esprit. Etablir une connexion entre le patient et le thérapeute est déjà le début du processus de guérison.
+> "Il y a un lien direct entre le corps et l’esprit. Etablir une connexion entre le patient et le thérapeute est déjà le début du processus de guérison."
 >
 > -- Yuichi Kawada
 
