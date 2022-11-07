@@ -34,8 +34,8 @@ bodyClass: page-particulier
 # *Domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
 
-# *Modes de paiement*
-- Liquide
+# *Règlement*
+- Espèces
 - CB (bientôt disponible)
 
 # *Mutuelles*
