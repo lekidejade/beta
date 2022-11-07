@@ -5,10 +5,6 @@ description: Shiatsu
 bodyClass: page-shiatsu
 ---
 
-> Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre.
->
-> -- Shizuto Masunaga
- 
 # *Votre séance*
 
 Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
@@ -65,6 +61,11 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
+> Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre.
+>
+> -- Shizuto Masunaga
+ 
+
 # *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
 - **Shi** : pression
@@ -108,7 +109,7 @@ Le shiatsu intervient sur une double dimension : Le soulagement des douleurs chr
 En reprenant contact avec chaque frémissement et vibration de votre corps, vous irez revisiter chaque strate (musculaire, nerveuse, énergétique) pour relâcher, investiguer, mieux connecter avec votre nature profonde.  Il y aura peut-être des moments de rires, de moments de pleurs, de libération de certains blocages au niveau énergétique qui pourront entraîner une réaction émotionnelle, une fatigue, une sensation de bien-être indescriptible, une diminution des douleurs, un changement dans le comportement.
 Mais plus encore, c'est un art, un art corporel qui vous amène dans votre intériorité, dans vos parties sacrées, enfouies, que vous n'avez parfois jamais visitées, ou que vous allez revisiter. Une reconnexion à chaque infime partie de votre être. Chaque mouvement, pression, est un mot, une parole, une discussion avec votre corps. D'âme à âme, un toucher sensitif au delà du toucher.
 
-Chaque séance est unique, car vous être unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines.
+Chaque séance est unique, car vous êtes unique. Chaque séance vous ressemble, et c'est votre courage qui vous amène en consultation pour livrer vos émotions, vos douleurs, vos joies, vos peines.
 
 Il va permettre au receveur d’être à l’écoute de son corps, de ses ressentis et de déclencher une véritable introspection. C’est le début d’une réflexion sur soi-même, sur les causes conscientes ou inconscientes qui peuvent déclencher telle émotion, tel symptôme, tel comportement. C’est une pratique qui va amener le receveur lui-même à se découvrir un peu plus et vous accompagner dans votre chemin de soin en parallèle avec votre prise en charge traditionnelle ou conventionnelle. C’est une complémentarité indispensable pour vous aider à comprendre les mécanismes de votre maladie.
 
