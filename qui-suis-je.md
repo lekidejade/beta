@@ -7,9 +7,11 @@ description: Qui suis-je ?
 # *Pourquoi le Shiatsu?*
 Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher Japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
 
-Mon rapport au toucher a toujours été unique, pianiste, danseuse et artiste depuis mon plus jeune âge, je voyais et ressentais le monde, les autres, avec une grande sensibilité. Mon empathie et mon écoute de l'autre me mène à travailler sur la posture de donner et recevoir. En shiatsu, c'est un échange, il n'y a pas de don de soi, c'est un cycle où chacun se nourrit et respecte les besoins de son corps et son esprit.
+![image](https://user-images.githubusercontent.com/104312978/200272358-5a0603d6-991b-4bcb-9bb8-fba7fa8c6cb6.png)
 
-Pour s'occuper de l'autre, il faut être dans une écoute subtile de son intériorité. C'est cette philosophie, cet art de vivre qui me guide et m'anime chaque jour, pour être là, pour vous, à chaque instant. Quand je donne un shiatsu, je suis pleinement en conscience du Ki du receveur (énergie vitale) et du mien. Je suis un vecteur, et vous êtes maître de tout ce qu'il se passe en vous, maître de votre Ki.
+Mon rapport au toucher a toujours été unique, pianiste, danseuse et artiste depuis mon plus jeune âge, je voyais et ressentais le monde, les autres, avec une grande sensibilité. Mon empathie et mon écoute de l'autre me mène à travailler sur la posture de donner et recevoir. En shiatsu, c'est un échange, il n'y a pas de don de soi, c'est un cycle où chacun se nourrit et respecte les besoins de son corps et son esprit. 
+
+Pour s'occuper de l'autre, il faut être dans une écoute subtile de son intériorité. L’acupuncture de Maurice Tran Din Can m’accompagne aussi de mon enfance à mon adolescence pour soigner notamment des tics nerveux au yeux. Bouleversement en moi, révélation de ma fatigue liée à une hyperstimulation sensorielle, la technique du point Paé Roé est un premier déclencheur sur la voie de l'écoute du corps. C'est cette philosophie, cet art de vivre qui me guide et m'anime chaque jour, pour être là, pour vous, à chaque instant. Quand je donne un shiatsu, je suis pleinement en conscience du Ki du receveur (énergie vitale) et du mien. Je suis un vecteur, et vous êtes maître de tout ce qu'il se passe en vous, maître de votre Ki.
 
 ![Jade](/images/qui-suis-je/L4283873.jpg){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
