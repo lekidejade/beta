@@ -5,6 +5,14 @@ description: Shiatsu
 bodyClass: page-shiatsu
 ---
 
+# *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
+
+C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
+
+> "Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable."
+> 
+> -- Shizuto Masunaga
+> 
 # *Votre séance*
 
 Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
@@ -64,10 +72,12 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 > "Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre."
 >
 > -- Shizuto Masunaga
- 
 
+![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
+ 
 # *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
+*Quelques définitions:*
 - **Shi** : pression
 - **Atsu** : doigts
 - **Tsubos** : points de traitements utilisés en acupuncture et en shiatsu
@@ -75,22 +85,13 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 - **Kyo** : état de vide d'energie en relation au Yin
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
-![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
-
-# *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
-
-C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
-
-> "Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable."
-> 
-> -- Shizuto Masunaga
-
+*L'évolution du Shiatsu:*
 - Au Japon : Depuis 1955, le shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
 - En Europe : Le shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
 - Mondialement : Le shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
 - En France : Le shiatsu est représenté officiellement par le SPS (Syndicat des Professionnels de shiatsu) et la FFST (Fédération Française de shiatsu) et il est reconnu par l'État et le Ministère de l'Emploi depuis 2015.
 
-# *Les méridiens*
+# *Les méridiens et leur fonctionnement*
 
 On peut comprendre les méridiens en tant que voie de circulation du Ki (énergie vitale en japonais). Ce sont des canaux du corps humain interconnectés, par lesquels circule l'énergie vitale du corps. Afin de simplifier le propos, on note les méridiens liés à un organe ou des entrailles (au nombre de 12) et les méridiens ayant une existence propre, précédant le développement des organes et des entrailles (au nombre de 8). Les méridiens fonctionnent par paire et sont associés aux 5 éléments et saisons de la médecine traditionnelle chinoise.
   
