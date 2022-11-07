@@ -6,7 +6,7 @@ description: Qui suis-je ?
 
 # *Pourquoi le Shiatsu?*
 
-Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher Japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
+Après 7 ans dans le secteur du numérique et des années de travail profond sur mon état d'être, ma mission de vie, le shiatsu s'est présenté à moi comme une évidence il y quelques années. Je me forme à cet art du toucher japonais depuis 3 ans auprès de Toshi Ichikawa Sensei à Paris.
 
 Mon rapport au toucher a toujours été unique, pianiste, danseuse et artiste depuis mon plus jeune âge, je voyais et ressentais le monde, les autres, avec une grande sensibilité. Mon empathie et mon écoute de l'autre me mène à travailler sur la posture de donner et recevoir. En shiatsu, c'est un échange, il n'y a pas de don de soi, c'est un cycle où chacun se nourrit et respecte les besoins de son corps et son esprit. 
 
