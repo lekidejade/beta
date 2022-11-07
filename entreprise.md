@@ -5,9 +5,14 @@ description: Entreprise
 bodyClass: page-entreprise
 ---
 
-Je propose des Shiatsu à dimension thérapeutique plus que de bien-être aux collaborateurs ou au personnel soignant. Nous sommes dans un monde qui va très vite, très Yang. En venant à vous, je serais peut-être un déclencheur sur une démarche que vous n’auriez pas fait seul. Une invitation à vous reconnecter à vos racines profondes de façon progressive et respectueuse de votre état du moment, pour ralentir votre intérieur, fouiller dans vos parts de vous oubliées, parfois sabotées. Prendre soin de sa santé, c’est ne pas attendre que le mal soit déjà présent.
-
 # *Pourquoi les entreprises ?*
+
+Je propose des Shiatsu à dimension thérapeutique plus que de bien-être aux collaborateurs. Nous sommes dans un monde qui va très vite, très Yang qui conduit très souvent au Burn-out. En venant à vous, je serais peut-être un déclencheur sur une démarche que vous n’auriez pas fait seul. Une invitation à vous reconnecter à vos racines profondes de façon progressive et respectueuse de votre état du moment, pour ralentir votre intérieur, fouiller dans les parts de vous oubliées, parfois sabotées. Prendre soin de sa santé, ce n'est pas attendre que le mal soit déjà présent.
+
+ *Témoignage d'une collaboratrice illustrant la problématique du Burn-out*
+>
+>Je consulte Jade depuis ses débuts. On a très vite confiance en elle et on arrive à se laisser aller (ce qui n’est pas mon fort à l'origine). Au début je recevais des shiatsus pour des douleurs au dos qui en fait révélaient un stress bien ancré en moi, le suivi régulier m’a (je pense) épargné un éventuel burn-out car lors de ces séances les énergies négatives ont disparu pour laisser place aux énergies positives. J’y retourne dès que j’en ressens le besoin. Jade est toujours à l’écoute et je pense que tout au long de l’année dernière ces séances m’ont beaucoup aidé. Je la recommande milles fois !"
+>
 
 ![WOJO](/images/entreprise/wojo-post.jpg){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
