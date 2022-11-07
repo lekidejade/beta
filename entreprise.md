@@ -15,7 +15,7 @@ Prendre soin de sa santé au quotidien en prévention permet de ne pas laisser i
 
  *Témoignage d'une collaboratrice illustrant la problématique du Burn-out*
 >
->Je consulte Jade depuis ses débuts. On a très vite confiance en elle et on arrive à se laisser aller (ce qui n’est pas mon fort à l'origine). Au début je recevais des shiatsus pour des douleurs au dos qui en fait révélaient un stress bien ancré en moi, le suivi régulier m’a (je pense) épargné un éventuel burn-out car lors de ces séances les énergies négatives ont disparu pour laisser place aux énergies positives. J’y retourne dès que j’en ressens le besoin. Jade est toujours à l’écoute et je pense que tout au long de l’année dernière ces séances m’ont beaucoup aidé. Je la recommande milles fois !"
+>Je consulte Jade régulièrement. On a très vite confiance en elle et on arrive à se laisser aller (ce qui n’est pas mon fort à l'origine). Au début je recevais des shiatsus pour des douleurs au dos qui en fait révélaient un stress bien ancré en moi, le suivi régulier m’a (je pense) épargné un éventuel burn-out car lors de ces séances les énergies négatives ont disparu pour laisser place aux énergies positives. J’y retourne dès que j’en ressens le besoin. Jade est toujours à l’écoute et je pense que tout au long de l’année dernière ces séances m’ont beaucoup aidé. Je la recommande milles fois !"
 >
 
 ![WOJO](/images/entreprise/wojo-post.jpg){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
