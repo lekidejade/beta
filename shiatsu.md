@@ -61,7 +61,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-> Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre.
+> "Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre."
 >
 > -- Shizuto Masunaga
  
@@ -81,7 +81,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
-> Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable.
+> "Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable."
 > 
 > -- Shizuto Masunaga
 
