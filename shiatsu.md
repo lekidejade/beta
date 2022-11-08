@@ -16,7 +16,8 @@ C’est une technique manuelle ancestrale Japonaise d'acupressure, mobilisation,
 
 # *Votre séance*
 
-Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. 
+Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
+***Info pratique: Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. Il est aussi important de prendre un pull et des chaussettes pour ne pas vous refroidir pendant la séance car le rythme cardiaque ralentit. J'ai toujours pour vous une couverture chaude, des serviettes pour le visage et des tissus supplémentaires.**
 
 - Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu.
 
