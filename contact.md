@@ -14,4 +14,3 @@ description: Contact
 
 - Dans un soucis de respect et d'anticipation, veuillez me contacter 48h avant si demande annulation. Si annulation de dernière minute, je facturerai la séance. Merci de votre compréhension.
 
-- Pour vos séances, pensez à prendre une tenue souple, de préférence avec le corps recouvert de tissus plutôt fin, et qui laisse la peau respirer, pour des pressions plus agréables. Il est aussi important de prendre un pull et des chaussettes pour ne pas vous refroidir pendant la séance car le rythme cardiaque ralentit. J'ai toujours pour vous une couverture chaude, des serviettes pour le visage et des tissus supplémentaires.
