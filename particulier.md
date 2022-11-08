@@ -17,6 +17,14 @@ bodyClass: page-particulier
 
 **Pour des forfaits de 3, 6, 8 séances** et suivi spécifique (douleurs chroniques, pathologies lourdes), contactez-moi pour un devis.
 
+*Règlement*
+- Espèces
+- CB (bientôt disponible)
+
+*Mutuelles*
+Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le shiatsu encadré par le SPS. Une facture vous sera remise sur demande.
+
+
 # *Horaires et réservations*
 
 | Jour         | Heures      | Lieu                                                                                                     |
@@ -31,12 +39,6 @@ bodyClass: page-particulier
 
 ## [**Pour réserver**](/contact)
 
-# *Domicile*
+# *A votre domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
 
-# *Règlement*
-- Espèces
-- CB (bientôt disponible)
-
-# *Mutuelles*
-Retrouvez [ici](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} la liste des mutuelles qui prennent en charge le shiatsu encadré par le SPS. Une facture vous sera remise sur demande.
