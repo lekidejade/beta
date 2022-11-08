@@ -17,12 +17,9 @@ bodyClass: page-particulier
 
 **Pour des forfaits de 3, 6, 8 séances** et suivi spécifique (douleurs chroniques, pathologies lourdes), contactez-moi pour un devis.
 
-*Règlement*  
-- Espèces
-- CB (bientôt disponible)
-
-*Mutuelles*  
-[Liste des mutuelles ](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"}qui prennent en charge le shiatsu encadré par le SPS.  
+**Règlement** en espèces ou par CB (bientôt disponible)
+ 
+[Liste des mutuelles ](https://www.syndicat-shiatsu.fr/les-mutuelles/){:target="_blank"} qui prennent en charge le shiatsu encadré par le SPS.  
 Une facture vous sera remise sur demande.
 
 # *Horaires et réservations*
