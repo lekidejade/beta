@@ -34,7 +34,7 @@ Une facture vous sera remise sur demande.
 | **Vendredi** | 10h00-18h00 | [Cabinet le Ki de Jade - Paris 8ème](https://goo.gl/maps/VrJBpNYD3VJrY114A){:target="_blank"}            |
 | **Samedi**   | 09h00-16h00 | [Cabinet paramédical Michel-Ange - Paris 16ème](https://goo.gl/maps/iaTXLQDH3uFvms219){:target="_blank"} |
 
-## [**Pour réserver**](/contact)
+[**Prendre rendez-vous**](/contact)
 
 # *A votre domicile*
 Je consulte uniquement à domicile sur demande et pour les personnes fragiles ne pouvant pas se déplacer en cabinet. Devis sur demande selon déplacement et durée de la séance.
