@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Prendre rendez-vous
 layout: contact
 description: Contact
 ---
