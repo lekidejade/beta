@@ -42,17 +42,17 @@ Anpuquarelle par Jade Hémon
 
 # *Pourquoi venir consulter?*
 
-- Troubles du sommeil: Insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le parasympathique (Le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
+- Troubles du sommeil: insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le système parasympathique (le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
 
 - Lutter contre tout type de stress, fatigue voire épuisement, surmenage, anxiété, dépression, crise d'angoisse, migraines.
 
-- Trouble musculo-squelettique: lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
+- Troubles musculo-squelettiques : lombalgie, sciatique, cruralgie, cervicalgie, douleurs liés aux différentes déformations du dos, épaule gelée, arthrose, ostéoporose.
 
-- Troubles digestifs et alimentaires: anorexie, boulimie, ballonnements, diarrhées ou constipation, colopathie fonctionnelle (RCH, côlon irritable), reflux gastriques
+- Troubles digestifs et alimentaires : anorexie, boulimie, ballonnements, diarrhées ou constipation, colopathie fonctionnelle (RCH, côlon irritable), reflux gastriques
 
 - Troubles cardiaques, hypertension.
 
-- Troubles gynécologiques: règles douloureuses et endométriose, cystite ou infection urinaire.
+- Troubles gynécologiques : règles douloureuses et endométriose, cystite ou infection urinaire.
 
 - Suivi et accompagnement pendant/après la grossesse.
 
@@ -71,7 +71,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-> "Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. Cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre."
+> "Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre."
 >
 > -- Shizuto Masunaga
 
