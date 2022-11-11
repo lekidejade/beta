@@ -31,3 +31,15 @@ ________________________________________________________________________________
 * +80h certification anatomie palpatoire, physiologie
 * Stages et formations divers : Anpuku et travail du ventre Toshiatsu, Merveilleux vaisseaux et grossesse par Laurance Lardeut co-directrice de Toshiatsu, shiatsu sur table avec [Guy Van Huyen](https://kenko-shiatsu.org/){:target="_blank"}, shiatsu et prise en charge des blessures invisibles (SPS), Aikido et pratique d'expression corporelle avec [Peter Tournier](https://www.formationacteur.com/stages){:target="_blank"}, Yoga dans l'eau et apnée Statique ( WATEO) avec le vice champion du monde d'apnée statique [Laurent Beaucaron](http://www.beaucaron.com/){:target="_blank"}.
 
+
+{:style="text-align:center"}
+Le Papillon se perdait dans l’adversité
+
+{:style="text-align:center"}
+La lumière lui tendit son cœur
+
+{:style="text-align:center"}
+Il apprit à dialoguer avec sa tortue intérieure
+
+{:style="text-align:center"}
+Ses ailes lui servent maintenant à explorer le monde avec lenteur
