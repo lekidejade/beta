@@ -12,13 +12,13 @@ show_call_box: false
 # Zen Shiatsu 指圧
 
 {:style="text-align:center"}
-Le Papillon se perdait dans l’adversité
+Je suis spécialiste Shiatsu basée en région parisienne,
 
 {:style="text-align:center"}
-La lumière lui tendit son cœur
+Le Shiatsu est technique manuelle japonaise d'accompagement pour votre santé globale (physique, mentale et émotionnelle)
 
 {:style="text-align:center"}
-Il apprit à dialoguer avec sa tortue intérieure
+Accessible à tout âge et sans contre-indication
 
 {:style="text-align:center"}
-Ses ailes lui servent maintenant à explorer le monde avec lenteur
+A très bientôt pour prendre soin de vous
