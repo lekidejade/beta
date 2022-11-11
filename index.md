@@ -21,4 +21,4 @@ Le Shiatsu est technique manuelle japonaise d'accompagement pour votre santé gl
 Accessible à tout âge et sans contre-indication
 
 {:style="text-align:center"}
-A très bientôt pour prendre soin de vous
+Consultation en cabinet et en entreprise
