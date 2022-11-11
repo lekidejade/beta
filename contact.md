@@ -12,5 +12,7 @@ description: Contact
 
 - Une fois le rendez-vous pris, une confirmation par mail et dans votre agenda sera envoyée avec les informations du lieu de la consultation.
 
-- Dans un soucis de respect et d'anticipation, veuillez me contacter 48h avant si demande annulation. Si annulation de dernière minute, je facturerai la séance. Merci de votre compréhension.
+- Dans un soucis de respect et d'anticipation, il est préférable de me contacter 24h avant si empêchement. Nous prendrons le temps de refixer cette séance.
+
+
 
