@@ -23,7 +23,7 @@ Pour s'occuper de l'autre, il faut être dans une écoute subtile de son intéri
 Je me suis formée pendant 3 ans à l’école de Do-In et shiatsu enseigné par [Toshi Ichikawa](https://toshiatsu.com/ecole-de-shiatsu-paris/){:target="_blank"} à Paris et je suis titulaire du titre de *spécialiste en shiatsu*. Il est délivré par le [Syndicat des Professionnels de Shiatsu (SPS)](https://www.syndicat-shiatsu.fr){:target="_blank"} et inscrit au registre national des certifications professionnelles. C’est pour l’instant le seul titre RNCP reconnu en France depuis 2015. Il donne la possibilité d’être pris en charge par un grand nombre de mutuelles. Par ailleurs, le Parlement Européen mentionne le shiatsu comme une des « huit médecines non conventionnelles dignes d’intérêt » aux côtés de l’acupuncture et l’ostéopathie (résolution A4-0075/97).
 
 
-![Logo SPSxToshiatsu](/images/qui-suis-je/logo-SPS-x- Toshiatsu.jpeg){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
+![Logo SPSxToshiatsu](/images/qui-suis-je/logo-SPS-x-Toshiatsu.jpeg){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Il y a différents types de shiatsu, celui que je pratique est issu de la lignée Zen-Shiatsu de [Shizuto Masunaga](https://www.shiatsu-france.com/article-iokai-le-zen-shiatsu.html){:target="_blank"}. Zen en Japonais signifie méditation. Quand je donne une séance au receveur, je fais circuler le Ki (l’énergie) dans un état méditatif, de conscience modifiée. Le mental ne dicte plus rien, c’est l’instinct et le ressenti qui parlent. Les connaissances théoriques de shiatsu ou de Médecine traditionnelle chinoise appuient mes ressentis, et non l’inverse. 
 
