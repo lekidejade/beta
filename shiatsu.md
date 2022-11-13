@@ -15,7 +15,6 @@ C’est une technique manuelle ancestrale Japonaise d'acupression, mobilisation,
 > 
 > -- Shizuto Masunaga
 
-
 # *Votre séance*
 
 Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise.
@@ -43,7 +42,7 @@ Anpuquarelle par Jade Hémon
 
 *[Anpuquarelle]: Représentation du bilan du ventre effectué au début d'une séance
 
-# *Pourquoi venir consulter?*
+# *Pourquoi venir consulter ?*
 
 - Troubles du sommeil: insomnies, terreurs nocturnes et cauchemars, narcolepsie, apnée du sommeil. Action sur le système parasympathique (le système nerveux parasympathique est responsable des fonctions involontaires de l'organisme, destiné à tempérer les fonctions neurologiques inconscientes du corps).
 
