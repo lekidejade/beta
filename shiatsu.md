@@ -5,7 +5,7 @@ description: Shiatsu
 bodyClass: page-shiatsu
 ---
 
-![Tortue imaginaire](/images/shiatsu/Tortue imaginaire.peg.jpeg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
+![Tortue imaginaire](/images/shiatsu/tortue-imaginaire.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 # *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
 
