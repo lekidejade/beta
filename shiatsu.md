@@ -5,6 +5,8 @@ description: Shiatsu
 bodyClass: page-shiatsu
 ---
 
+![Tortue imaginaire](/images/shiatsu/ Tortue imaginaire.peg.jpeg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
+
 # *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
 
 C’est une technique manuelle ancestrale Japonaise d'acupression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
@@ -76,7 +78,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 > -- Shizuto Masunaga
 
 ![Zen-Shiatsu](/images/shiatsu/zenshiatsu.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto"}
- 
+
 # *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
 *Quelques définitions:*
