@@ -9,17 +9,18 @@ bodyClass: page-shiatsu
 
 # *Le Zen-Shiatsu, la lignée de Shizuto Masunaga*
 
-C’est une technique manuelle ancestrale Japonaise d'acupression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'accupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
+C’est une technique manuelle ancestrale Japonaise d'acupression, mobilisation, étirements pour stimuler vos méridiens et refaire circuler les flux énergétiques, le Ki en japonais (l'énergie vitale). Il fait partie de la même famille que l'acupuncture. Il requiert des connaissances solides en médecine traditionnelle chinoise tout autant que que celles d'anatomie théorique et palpatoire, et de physiologie de la médecine occidentale.
 
-> "Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable."
+> Le shiatsu est fondé sur un système médical oriental complet qui explique le corps humain en termes dun réseau de méridiens à travers lequel s'écoule une énergie appelée *Ki* en japonais. En identifiant les zones où l'énergie stagne et en facilitant l'écoulement du Ki à travers les méridiens, la personne recouvre la santé de manière durable.
 > 
 > -- Shizuto Masunaga
 
 
 # *Votre séance*
 
-Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise. 
-***Info pratique: Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. Il est aussi important de prendre un pull et des chaussettes pour ne pas vous refroidir pendant la séance car le rythme cardiaque ralentit. J'ai toujours pour vous une couverture chaude, des serviettes pour le visage et des tissus supplémentaires.**
+Le soin shiatsu traditionnel se donne sur futon, le receveur allongé. Il peut aussi être fait sur table notamment dans les cabinets où je consulte. Pour certaines personnes qui ne peuvent pas du tout s’allonger, il peut être fait sur une chaise.
+
+**Info pratique : Le soin se fait habillé dans une tenue confortable pour être à l’aise, idéalement avec un tissu souple et fin. Il est aussi important de prendre un pull et des chaussettes pour ne pas vous refroidir pendant la séance car le rythme cardiaque ralentit. J'ai toujours pour vous une couverture chaude, des serviettes pour le visage et des tissus supplémentaires.**
 
 - Accueil avec une boisson chaude pour vous plonger dans une bulle, un moment suspendu.
 
@@ -73,7 +74,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 - Accompagnement pré et post-opératoire pour réduire le stress et mieux faire face le jour même et après.
 
-> "Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre."
+> Quand vous diagnostiquez, vous donnez réellement un diagnostic de vie. cela signifie que vous ne recherchez pas une maladie spécifique mais que vous améliorez la vie du patient en travaillant sur les racines de son existence et vous l'éclairez pour une meilleure manière de vivre.
 >
 > -- Shizuto Masunaga
 
@@ -81,7 +82,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 
 # *Pour bien appréhender les notions de shiatsu et mieux comprendre les bénéfices de cette pratique*
 
-*Quelques définitions:*
+## *Quelques définitions:*
 - **Shi** : pression
 - **Atsu** : doigts
 - **Tsubos** : points de traitements utilisés en acupuncture et en shiatsu
@@ -89,7 +90,7 @@ Notre ADN est impactée par nos émotions et notre passé, mais comporte aussi l
 - **Kyo** : état de vide d'energie en relation au Yin
 - **Jitsu** : état d'excès d'énergie en relation au Yang
 
-*L'évolution du Shiatsu:*
+## *L'évolution du shiatsu :*
 - Au Japon : Depuis 1955, le shiatsu est une technique complémentaire reconnue comme thérapie manuelle officielle. En 1964, le ministère de la Santé et du bien-être japonais distingue le shiatsu du massage. 
 - En Europe : Le shiatsu est reconnu en 1997 par le Parlement Européen comme l'une des huit médecines non conventionnelle digne d'intérêt. (Rapport Collins- Lannoye du 29/05/1997, Bruxelles).
 - Mondialement : Le shiatsu est reconnu par l'OMS (Organisation Mondiale de la Santé)
@@ -120,9 +121,9 @@ Il va permettre au receveur d’être à l’écoute de son corps, de ses ressen
 
 Le shiatsu pourra être le début d’une véritable thérapie corporelle.
 
-**Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
+**Que ce soit en prévention pour maintenir un bon état de santé général, ou que ce soit dans l’accompagnement de troubles et maladies physiques ou psychosomatiques, le shiatsu peut et devrait devenir votre meilleur allié ! Le Zen-Shiatsu agit donc sur la sphère physique ET psycho-émotionnelle.**
 
 # *Mentions légales*
 
-Le Shiatsu ne se substitue pas aux traitements de la médecine allopathique ou psychiatrique et ne sont nullement associées à la kinésithérapie selon l’article L.4321-21 du Code de la Santé Publique et au décret n° 96-879 du 8 octobre 1996, modifié par décret n° 2000-577 du 27 Juin 2000.
+Le shiatsu ne se substitue pas aux traitements de la médecine allopathique ou psychiatrique et ne sont nullement associées à la kinésithérapie selon l’article L.4321-21 du Code de la Santé Publique et au décret n° 96-879 du 8 octobre 1996, modifié par décret n° 2000-577 du 27 Juin 2000.
 En cas de malaise important ou de maladie, consultez d'abord un médecin ou un professionnel de la santé en mesure d'évaluer adéquatement votre état de santé.

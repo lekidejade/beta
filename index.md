@@ -10,7 +10,7 @@ show_call_box: false
 
 # Zen Shiatsu 指圧
 
-Je suis spécialisteshiatsu basée en région parisienne.
+Je suis spécialiste shiatsu pratiquant en région parisienne.
 
 Le shiatsu est une technique manuelle japonaise d'accompagement pour votre santé globale (physique, mentale et émotionnelle), accessible à tout âge et sans contre-indication.
 
