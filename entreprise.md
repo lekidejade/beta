@@ -7,7 +7,7 @@ bodyClass: page-entreprise
 
 # *Pourquoi les entreprises ?*
 
-Je propose des séances de shiatsus aux collaborateur afin de contribuer à la prévention des maladies et du bon entretien de la santé . Nous sommes dans un monde qui va très vite, très Yang, qui conduit très souvent au burn-out. Le Covid a questionné les entreprises encore plus sérieusement sur le sujet de la santé au travail, d'autant plus que les maladies liées au contexte professionnel sont de plus en plus fréquentes.
+Je propose des séances de shiatsus aux collaborateur afin de contribuer à la prévention des maladies et du bon entretien de la santé. Nous sommes dans un monde qui va très vite, très Yang, qui conduit très souvent au burn-out. Le Covid a questionné les entreprises encore plus sérieusement sur le sujet de la santé au travail, d'autant plus que les maladies liées au contexte professionnel sont de plus en plus fréquentes.
 En venant à vous, je serai peut-être un déclencheur sur une démarche que vous n’auriez pas fait seul. Une invitation à vous reconnecter à vos racines profondes de façon progressive et respectueuse de votre état du moment, pour ralentir votre intérieur, fouiller dans les parts de vous oubliées, parfois sabotées.
 C'est aussi l'opportunité de sensibiliser autour de vous sur l'impact du shiatsu, et de créer des synergies positives entre collaborateurs, du soutien, de l'écoute et de la bienveillance. Quand quelqu'un ne va pas bien sur son lieu de travail, sans juger ou présumer de ce qui lui arrive : "Et si tu recevais une séance de shiatsu ?"
 
@@ -36,8 +36,7 @@ N'attendez plus, je suis déjà parmis vous !
 
 # *Tarifs*
 
-- Forfait fixe demi-journée : 450€ pour 6 receveurs - 45 minutes par personne.
-- Devis sur mesure selon le nombre de participants.
+Devis sur mesure selon le nombre de participants. Forfait demi-journée 6 personnes max - 45 minutes par personne.
 
 # *Règlement*
 
